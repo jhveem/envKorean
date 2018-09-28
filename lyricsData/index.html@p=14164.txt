@@ -1,0 +1,27 @@
+<TOTAL>6</TOTAL>
+<KRCOUNT>2</KRCOUNT>
+<ENCOUNT>110</ENCOUNT>
+<KNOWN1>0</KNOWN1>
+<PERCENTKNOWN1>0.0</PERCENTKNOWN1>
+<KNOWN2>0</KNOWN2>
+<PERCENTKNOWN2>0.0</PERCENTKNOWN2>
+<KNOWN3>0</KNOWN3>
+<PERCENTKNOWN3>0.0</PERCENTKNOWN3>
+<KNOWN4>1</KNOWN4>
+<PERCENTKNOWN4>0.16666666666666666</PERCENTKNOWN4>
+<KNOWN5>1</KNOWN5>
+<PERCENTKNOWN5>0.16666666666666666</PERCENTKNOWN5>
+<KNOWN6>1</KNOWN6>
+<PERCENTKNOWN6>0.16666666666666666</PERCENTKNOWN6>
+<KNOWN7>1</KNOWN7>
+<PERCENTKNOWN7>0.16666666666666666</PERCENTKNOWN7>
+<KNOWN8>1</KNOWN8>
+<PERCENTKNOWN8>0.16666666666666666</PERCENTKNOWN8>
+<BODY> It isn t so easy to love you trueAccount of all the rattlesnakesand all that makes you blueBut it s worth it, I, I love the thrillCome, come, comeC mon through, c mon youCome take right into my heartC mon through, c mon youCome take right into my heartWhat is the body if not a placewere you store all anger and hapiness and painBut it s worth it, I love the thrillCome, come, comeC mon through, c mon youCome take right into my heartC mon through, c mon youCome take right into my heartC mon throughC mon through, c mon youCome take right into my heart C mon Through 소울메이트 테마곡 Lasse Lindh </BODY>
+<LEMMA>소=1
+울=1
+ㄹ=1
+메이트=1
+테마=1
+곡=1
+</LEMMA>

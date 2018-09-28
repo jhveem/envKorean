@@ -1,0 +1,23 @@
+<TOTAL>2</TOTAL>
+<KRCOUNT>2</KRCOUNT>
+<ENCOUNT>339</ENCOUNT>
+<KNOWN1>0</KNOWN1>
+<PERCENTKNOWN1>0.0</PERCENTKNOWN1>
+<KNOWN2>0</KNOWN2>
+<PERCENTKNOWN2>0.0</PERCENTKNOWN2>
+<KNOWN3>0</KNOWN3>
+<PERCENTKNOWN3>0.0</PERCENTKNOWN3>
+<KNOWN4>0</KNOWN4>
+<PERCENTKNOWN4>0.0</PERCENTKNOWN4>
+<KNOWN5>0</KNOWN5>
+<PERCENTKNOWN5>0.0</PERCENTKNOWN5>
+<KNOWN6>0</KNOWN6>
+<PERCENTKNOWN6>0.0</PERCENTKNOWN6>
+<KNOWN7>0</KNOWN7>
+<PERCENTKNOWN7>0.0</PERCENTKNOWN7>
+<KNOWN8>0</KNOWN8>
+<PERCENTKNOWN8>0.0</PERCENTKNOWN8>
+<BODY>[Sean]Eenie meenie miney moCatch a bad chick by her toeIf she holla if, if, if she holla let her goShes indecisiveShe cant decideShe keeps on lookin From left to rightGirl, c mon get closerLook in my eyesSearchin is so wrongI m Mr. RightYou seem like the typeTo love em and leave emAnd disappear right after this song.So give me the nightTo show you, hold youDon t leave me out here dancin aloneYou cant make up your mind, mind, mind, mind, mindPlease don t waste my time, time, time, time, timeI m not tryin to rewind, wind, wind, wind, windI wish our hearts could come together as oneCause shorty is a eenie meenie miney mo lovaShorty is a eenie meenie miney mo lovaShorty is a eenie meenie miney mo lovaShorty is a eenie meenie miney mo lova[Justin]Let me show you what your missin ParadiseWith me you re winning girlYou don t have to roll the diceTell me what you re really here forThem other guys?I can see right through yaYou seem like the typeTo love em and leave emAnd disappear right after the song.So give me the nightTo show you, hold youDon t leave me out here dancin aloneCant make up your mindPlease don t waste my timeNot tryin to rewindI wish our hearts could come together as oneCause shorty is a eenie meenie miney mo lovaShorty is a eenie meenie miney mo lovaShorty is a eenie meenie miney mo lovaShorty is a eenie meenie miney mo lova[Sean]Eenie meenie miney moeCatch a bad chick by her toeIf she holla if, if, if she holla let her goEenie meenie miney moeCatch a bad chick by her toeIf she holla if, if, if she holla let her goShorty is a eenie meenie miney mo lovaShorty is a eenie meenie miney mo lovaShorty is a eenie meenie miney mo lovaShorty is a eenie meenie miney mo lovaCant make up your mindPlease don t waste my timeNot tryin to rewindI wish our hearts could come together as one[repeat] Eenie Meenie With Justin Bieber Sean Kingston 션 킹스턴 </BODY>
+<LEMMA>션=1
+킹스턴=1
+</LEMMA>

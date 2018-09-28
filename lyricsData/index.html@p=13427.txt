@@ -1,0 +1,23 @@
+<TOTAL>4</TOTAL>
+<KRCOUNT>1</KRCOUNT>
+<ENCOUNT>353</ENCOUNT>
+<KNOWN1>3</KNOWN1>
+<PERCENTKNOWN1>0.75</PERCENTKNOWN1>
+<KNOWN2>3</KNOWN2>
+<PERCENTKNOWN2>0.75</PERCENTKNOWN2>
+<KNOWN3>3</KNOWN3>
+<PERCENTKNOWN3>0.75</PERCENTKNOWN3>
+<KNOWN4>3</KNOWN4>
+<PERCENTKNOWN4>0.75</PERCENTKNOWN4>
+<KNOWN5>3</KNOWN5>
+<PERCENTKNOWN5>0.75</PERCENTKNOWN5>
+<KNOWN6>3</KNOWN6>
+<PERCENTKNOWN6>0.75</PERCENTKNOWN6>
+<KNOWN7>3</KNOWN7>
+<PERCENTKNOWN7>0.75</PERCENTKNOWN7>
+<KNOWN8>3</KNOWN8>
+<PERCENTKNOWN8>0.75</PERCENTKNOWN8>
+<BODY>  #Tiger is in the presence bam bam hey!  Upon the raggae is bam bam hey! # X2   I get you overflooded like Han River Make you hot, Make you shiver I get your kidneys shifted when I deliver I start delivering on point like decimal Your spot start trembling like treble I Get deeper than Hyman diamond tip drilling You bust a rhymin Now what s the reason? Why you sighin ? Let me wipe off those tears Stop crin   Scent of your presence was true essence of your beauty The complexions reminiscent be like blinding twenty twenty From the git go Couldn t let go You had my hearty mad looney tooney From the full moon to the crescent Reminiscing about your beauty Feeling blue indeed like the time You didn t do me When I m alone I m in a love Jones Baby boo I m truly your Like honey dip from Gothem You let me in for a pleasure Voulez vous couchez avec moi? Now you drop your draws, uh!  # X2   Hey, Asiatic chicken You got me finger lickin The way you sip on the drink got me mad Pumped like jeep music Give me your eyes and beauty Then I promise I wouldn t abuse it Won t you hit me a ring? Tonight is the night You be the gaddist intoxicated Tiger J Yo bebe I got the fattest apparatus Afro Jimmy addicts I mma eat your lettuce And my flow be like Oasis, but I m still thirsty I murder dim bumberclotz boo You like mercy You attack me with your body fuctions Attack you with my man assumption Getting freak My appearance makes you start bum and sizzle Tender, ripe and juicy Snake about to erupt and fizzle Lethal injection of your love s got me erected No question and guessing I come magnum like protection No need to hurry Take your time Shoot it in your eyes They might get blurry you so me fine Your elegance blows my mind Give me a chance so we can bump and grind  Drunken! Drunken! Drunken! Tiger ! Drunken! Drunken! Drunken! Tiger ! X2   #... 반복   </BODY>
+<LEMMA>2=3
+반복=1
+</LEMMA>

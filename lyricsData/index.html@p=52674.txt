@@ -1,0 +1,23 @@
+<TOTAL>2</TOTAL>
+<KRCOUNT>1</KRCOUNT>
+<ENCOUNT>155</ENCOUNT>
+<KNOWN1>0</KNOWN1>
+<PERCENTKNOWN1>0.0</PERCENTKNOWN1>
+<KNOWN2>0</KNOWN2>
+<PERCENTKNOWN2>0.0</PERCENTKNOWN2>
+<KNOWN3>0</KNOWN3>
+<PERCENTKNOWN3>0.0</PERCENTKNOWN3>
+<KNOWN4>0</KNOWN4>
+<PERCENTKNOWN4>0.0</PERCENTKNOWN4>
+<KNOWN5>0</KNOWN5>
+<PERCENTKNOWN5>0.0</PERCENTKNOWN5>
+<KNOWN6>0</KNOWN6>
+<PERCENTKNOWN6>0.0</PERCENTKNOWN6>
+<KNOWN7>0</KNOWN7>
+<PERCENTKNOWN7>0.0</PERCENTKNOWN7>
+<KNOWN8>0</KNOWN8>
+<PERCENTKNOWN8>0.0</PERCENTKNOWN8>
+<BODY>Hiding from the rain and snowTrying to forget but I won t let goLooking at a crowded streetListening to my own heart beatSo many people all around the worldTell me where do I find someone like you girlTake me to your heart take me to your soulGive me your hand before I m oldShow me what love is haven t got a clueShow me that wonders can be trueThey say nothing lasts foreverWe re only here todayLove is now or neverBring me far awayTake me to your heart take me to your soulGive me your hand and hold meShow me what love is be my guiding starIt s easy take me to your heartStanding on a mountain highLooking at the moon through a clear blue skyI should go and see some friendsBut they don t really comprehendDon t need too much talking without saying anythingAll I need is someone who makes me wanna sing 별명 : coco258 </BODY>
+<LEMMA>별명=1
+258=1
+</LEMMA>

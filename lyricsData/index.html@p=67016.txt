@@ -1,0 +1,22 @@
+<TOTAL>1</TOTAL>
+<KRCOUNT>1</KRCOUNT>
+<ENCOUNT>131</ENCOUNT>
+<KNOWN1>0</KNOWN1>
+<PERCENTKNOWN1>0.0</PERCENTKNOWN1>
+<KNOWN2>0</KNOWN2>
+<PERCENTKNOWN2>0.0</PERCENTKNOWN2>
+<KNOWN3>0</KNOWN3>
+<PERCENTKNOWN3>0.0</PERCENTKNOWN3>
+<KNOWN4>0</KNOWN4>
+<PERCENTKNOWN4>0.0</PERCENTKNOWN4>
+<KNOWN5>0</KNOWN5>
+<PERCENTKNOWN5>0.0</PERCENTKNOWN5>
+<KNOWN6>0</KNOWN6>
+<PERCENTKNOWN6>0.0</PERCENTKNOWN6>
+<KNOWN7>0</KNOWN7>
+<PERCENTKNOWN7>0.0</PERCENTKNOWN7>
+<KNOWN8>0</KNOWN8>
+<PERCENTKNOWN8>0.0</PERCENTKNOWN8>
+<BODY>I, I m so in love with youWhatever you want to doIs all right with me Cause you make me feel so brand newAnd I want to spend my life with youSince, since we ve been togetherLoving you foreverIs what I needLet me be the one you come running toI ll never be untrueLet s, let s stay togetherLovin you whether, whetherTimes are good or bad, happy or sadWhether times are good or bad, happy or sadWhy, why some people break upThen turn around and make upI just can t seeYou d never do that to me  would you, baby Staying around you is all I see Here s what I want us to do Let s, we oughta stay togetherLoving you whether, whetherTimes are good or bad, happy or sad 별명 : yuriekf </BODY>
+<LEMMA>별명=1
+</LEMMA>

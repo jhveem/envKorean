@@ -1,0 +1,27 @@
+<TOTAL>6</TOTAL>
+<KRCOUNT>2</KRCOUNT>
+<ENCOUNT>118</ENCOUNT>
+<KNOWN1>3</KNOWN1>
+<PERCENTKNOWN1>0.5</PERCENTKNOWN1>
+<KNOWN2>3</KNOWN2>
+<PERCENTKNOWN2>0.5</PERCENTKNOWN2>
+<KNOWN3>3</KNOWN3>
+<PERCENTKNOWN3>0.5</PERCENTKNOWN3>
+<KNOWN4>3</KNOWN4>
+<PERCENTKNOWN4>0.5</PERCENTKNOWN4>
+<KNOWN5>3</KNOWN5>
+<PERCENTKNOWN5>0.5</PERCENTKNOWN5>
+<KNOWN6>3</KNOWN6>
+<PERCENTKNOWN6>0.5</PERCENTKNOWN6>
+<KNOWN7>3</KNOWN7>
+<PERCENTKNOWN7>0.5</PERCENTKNOWN7>
+<KNOWN8>3</KNOWN8>
+<PERCENTKNOWN8>0.5</PERCENTKNOWN8>
+<BODY>Walking down the street I try to find the ways With my hands upon guitar, sliding memories This song on the wind across the universe Come close to my old strings play the melodies  You re my everything my everything my everything You re my everything my everything my everything  Think about the past and take a look around There so many things remind you wherever I belong Sunrise on the bay in the pictures cut in half But your smiling so gone to far a hundred miles away  You re my everything my everything my everything You re my everything my everything my everything You re my everything my everything my everything You re my everything my everything my everything  ★영원한 사랑을 위하여★ </BODY>
+<LEMMA>영원=1
+하=1
+ㄴ=1
+사랑=1
+을=1
+위하=1
+</LEMMA>

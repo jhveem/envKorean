@@ -1,0 +1,26 @@
+<TOTAL>5</TOTAL>
+<KRCOUNT>1</KRCOUNT>
+<ENCOUNT>233</ENCOUNT>
+<KNOWN1>0</KNOWN1>
+<PERCENTKNOWN1>0.0</PERCENTKNOWN1>
+<KNOWN2>0</KNOWN2>
+<PERCENTKNOWN2>0.0</PERCENTKNOWN2>
+<KNOWN3>0</KNOWN3>
+<PERCENTKNOWN3>0.0</PERCENTKNOWN3>
+<KNOWN4>0</KNOWN4>
+<PERCENTKNOWN4>0.0</PERCENTKNOWN4>
+<KNOWN5>0</KNOWN5>
+<PERCENTKNOWN5>0.0</PERCENTKNOWN5>
+<KNOWN6>0</KNOWN6>
+<PERCENTKNOWN6>0.0</PERCENTKNOWN6>
+<KNOWN7>0</KNOWN7>
+<PERCENTKNOWN7>0.0</PERCENTKNOWN7>
+<KNOWN8>0</KNOWN8>
+<PERCENTKNOWN8>0.0</PERCENTKNOWN8>
+<BODY>I ve made up my mind, Don t need to think it over If I m wrong, I am right Don t need to look no further, This ain t lust I know this is love But, if I tell the world I ll never say enough Cos it was not said to you And that s exactly what I need to do If I end up with you  [Chorus] Should I give up, Or should I just keep chasin pavements? Even if it leads nowhere Or would it be a waste Even if I knew my place Should I leave it there Should I give up, Or should I just keep chasin pavements Even if it leads nowhere  I build myself up And fly around in circles Waitin as my heart drops And my back begins to tingle Finally, could this be it  [Chorus] Or should I give up Or should I just keep chasin pavements Even if it leads nowhere Or would it be a waste Even if I knew my place Should I leave it there  Should I give up Or should I just keep chasin pavements Even if it leads nowhere Or would it be a waste Even if I knew my place should I leave it there Should I give up Or should I just keep on chasin pavements Should I just keep on chasin pavements Ohh oh  [Chorus]  [출처] Grammy Nominees 2009 Adele/Chasing Pavements|작성자 디폴</BODY>
+<LEMMA>출처=1
+2009=1
+작성자=1
+디=1
+폴=1
+</LEMMA>

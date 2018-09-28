@@ -1,0 +1,24 @@
+<TOTAL>3</TOTAL>
+<KRCOUNT>2</KRCOUNT>
+<ENCOUNT>101</ENCOUNT>
+<KNOWN1>1</KNOWN1>
+<PERCENTKNOWN1>0.3333333333333333</PERCENTKNOWN1>
+<KNOWN2>1</KNOWN2>
+<PERCENTKNOWN2>0.3333333333333333</PERCENTKNOWN2>
+<KNOWN3>1</KNOWN3>
+<PERCENTKNOWN3>0.3333333333333333</PERCENTKNOWN3>
+<KNOWN4>1</KNOWN4>
+<PERCENTKNOWN4>0.3333333333333333</PERCENTKNOWN4>
+<KNOWN5>1</KNOWN5>
+<PERCENTKNOWN5>0.3333333333333333</PERCENTKNOWN5>
+<KNOWN6>1</KNOWN6>
+<PERCENTKNOWN6>0.3333333333333333</PERCENTKNOWN6>
+<KNOWN7>1</KNOWN7>
+<PERCENTKNOWN7>0.3333333333333333</PERCENTKNOWN7>
+<KNOWN8>1</KNOWN8>
+<PERCENTKNOWN8>0.3333333333333333</PERCENTKNOWN8>
+<BODY>Close your eyes And feel my heart desire I need your love in my heart Call my name And touch me once again I ll go about to reach to the stars So,here inside of my heart Birds can sing everytime you re here Forever and ever and ever and more Open your heart And look into my eyes You ll find my love in your heart  Hold me tight And kiss me once again I ll go beyond myselfto the moon Here I go again Birds can fly everytime You re near Forever and ever and ever with you 반 복 Blue Moon서영은</BODY>
+<LEMMA>반=1
+복=1
+서영은=1
+</LEMMA>

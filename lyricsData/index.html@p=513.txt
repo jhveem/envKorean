@@ -1,0 +1,26 @@
+<TOTAL>5</TOTAL>
+<KRCOUNT>1</KRCOUNT>
+<ENCOUNT>411</ENCOUNT>
+<KNOWN1>1</KNOWN1>
+<PERCENTKNOWN1>0.2</PERCENTKNOWN1>
+<KNOWN2>1</KNOWN2>
+<PERCENTKNOWN2>0.2</PERCENTKNOWN2>
+<KNOWN3>1</KNOWN3>
+<PERCENTKNOWN3>0.2</PERCENTKNOWN3>
+<KNOWN4>1</KNOWN4>
+<PERCENTKNOWN4>0.2</PERCENTKNOWN4>
+<KNOWN5>1</KNOWN5>
+<PERCENTKNOWN5>0.2</PERCENTKNOWN5>
+<KNOWN6>1</KNOWN6>
+<PERCENTKNOWN6>0.2</PERCENTKNOWN6>
+<KNOWN7>1</KNOWN7>
+<PERCENTKNOWN7>0.2</PERCENTKNOWN7>
+<KNOWN8>1</KNOWN8>
+<PERCENTKNOWN8>0.2</PERCENTKNOWN8>
+<BODY> turn mymic up louder i got to say somethinglightweights step it aside when we some infeel it in your chest / the syllables goet pumpingpeople on the street they panic and start runningwords on loose leaf sheet complete comingi jump in my mind and summon the rhyme i&acute;m dumponghealing the blink i promise to let the sun insick of the dark ways we march to the drum andjump when they tell us that they sanna see jumpingfuck that / i wanna see some tists pumpingrisk something / take back what&acute;s yourssay something that you know they might attack you forcuz i&acute;m sick of being treated like i have beforelike it&acute;s stupid standing for what i&acute;m standing forlike this war&acute;s really just a different brand of warlike it doesn&acute;t cater to rich and abandon poorlike they understand you in the back of the jet / when youcan&acute;t put gas in your tank / and these fuckers arelaughing their way to th\e bank / casing the checkasking you to have compassion / have respectfor a leader so nervous in an obvious waystuttering and mumbling for nightly news to replayand the rest if the world watching at the end of the dayin their living room laughing like what did he sayin my living room watching / i am not laughing / cuzwhen it gets tense i know what might happenthe world is cold / the bold men make actionhave to react or get blown into fractionsten years old / it&acute;s something to see / anotherkid my age drug under a jeeptaken and bound / and found later under a treei wonder if he had thought the next one could be medo you see / the soldiers / they&acute;re out today theybrush the dust from bulletproof vests awayit&acute;s ironic / at times like this you praybut a bomb blew the mosque up yesterdaythere&acute;s bombs on the busses / bikes / roadsinside your market / your shops / your clothes / my dadhe&acute;s got a lot of fear i knowbut enough pride inside not to let that showmy brither had a book he would hold with pridea little red over with a briken spineon the back / he hand wrote a quote inside: when the rich wage war it&acute;s the poor who die and meanwhile / the leader just talks awaystuttering and mumbling for nightly news to replaythe rest of the world watching at the end of the dayboth scared and angry likewhat did he saywith hands held high into a sky so blueas the ocean opens up to swallow you Linkin Park Minutes To Midnight 07 Hands held highLinkin Park 린킨파크 </BODY>
+<LEMMA>07=1
+린=1
+키=1
+ㄴ=1
+파크=1
+</LEMMA>

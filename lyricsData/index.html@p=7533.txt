@@ -1,0 +1,24 @@
+<TOTAL>3</TOTAL>
+<KRCOUNT>1</KRCOUNT>
+<ENCOUNT>381</ENCOUNT>
+<KNOWN1>0</KNOWN1>
+<PERCENTKNOWN1>0.0</PERCENTKNOWN1>
+<KNOWN2>0</KNOWN2>
+<PERCENTKNOWN2>0.0</PERCENTKNOWN2>
+<KNOWN3>0</KNOWN3>
+<PERCENTKNOWN3>0.0</PERCENTKNOWN3>
+<KNOWN4>0</KNOWN4>
+<PERCENTKNOWN4>0.0</PERCENTKNOWN4>
+<KNOWN5>0</KNOWN5>
+<PERCENTKNOWN5>0.0</PERCENTKNOWN5>
+<KNOWN6>0</KNOWN6>
+<PERCENTKNOWN6>0.0</PERCENTKNOWN6>
+<KNOWN7>0</KNOWN7>
+<PERCENTKNOWN7>0.0</PERCENTKNOWN7>
+<KNOWN8>0</KNOWN8>
+<PERCENTKNOWN8>0.0</PERCENTKNOWN8>
+<BODY> I’m breaking down. I am screaming out. My time is running out. What do I do now? Oh give up? or stand up? I don’t know. I wanna break the spell now.  I’m drowning now. I am crying out. My time is running out. I need someone to save me now. Somewhere, Lady luck will smile at me. Yeah  I’m searching where you are. Oh, shining down on me from where you are. I’ll always be right there, baby. Always be right there, baby. Oh, please touch my body and my face. I’m searching where you are. Can you see what I need? It’s where you are. I’ll always be right there, baby. Always be right there baby. You know? When I can be where you are, only then I will shine bright.  I’m crumbling down. I’m falling apart. My time is running out. What do I do now? Oh give up? or stand up? I don’t know. I wanna break the spell now.  I can’t breathe now. I’m losing myself. My time is running out. I need someone to save me now. Somewhere, Lady luck will smile at me. Yeah  I’m searching where you are. Oh, shining down on me from where you are. I’ll always be right there, baby. Always be right there, baby. Oh, please touch my body and my face. I’m searching where you are. Can you see what I need? It’s where you are. I’ll always be right there, baby. Always be right there baby. You know? When I can be where you are, only then I will shine bright.  I wanna be like a bird. I wanna fly to the sky whenever, oh wherever. I will search where you are right now. And I will fly high.  I’m searching where you are. Oh, shining down on me from where you are. I’ll always be right there, baby. Always be right there, baby. Oh, please touch my body and my face. I’m searching where you are. Can you see what I need? It’s where you are. I’ll always be right there, baby. Always be right there baby. You know? When I can be where you are, only then I will shine, only then I will shine, only then I will shine bright. Only then I will shine bright. Only then I will shine bright.  ㈕직도 남o†nㅓ＼、、＼、。  </BODY>
+<LEMMA>직도=1
+남=1
+ㅓ=1
+</LEMMA>

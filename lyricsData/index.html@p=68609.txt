@@ -1,0 +1,22 @@
+<TOTAL>1</TOTAL>
+<KRCOUNT>1</KRCOUNT>
+<ENCOUNT>183</ENCOUNT>
+<KNOWN1>0</KNOWN1>
+<PERCENTKNOWN1>0.0</PERCENTKNOWN1>
+<KNOWN2>0</KNOWN2>
+<PERCENTKNOWN2>0.0</PERCENTKNOWN2>
+<KNOWN3>0</KNOWN3>
+<PERCENTKNOWN3>0.0</PERCENTKNOWN3>
+<KNOWN4>0</KNOWN4>
+<PERCENTKNOWN4>0.0</PERCENTKNOWN4>
+<KNOWN5>0</KNOWN5>
+<PERCENTKNOWN5>0.0</PERCENTKNOWN5>
+<KNOWN6>0</KNOWN6>
+<PERCENTKNOWN6>0.0</PERCENTKNOWN6>
+<KNOWN7>0</KNOWN7>
+<PERCENTKNOWN7>0.0</PERCENTKNOWN7>
+<KNOWN8>0</KNOWN8>
+<PERCENTKNOWN8>0.0</PERCENTKNOWN8>
+<BODY>Gwireuldaebomyeon in your heart, I feel I am so happy .. He loves me so your heart beats too healthy .. How people modeled after ttatteuthagi geudaeran Can you do stay with me forever ..  You mean everything. You are everything to me. I want to talk to me face to build. You mean everything. Me to breathe It s the heart of the owner. My darling.   If you look into your lips, I feel I am so happy .. Say you love me like a dream Whispered in my ear gave aetadeon How people modeled after softer geudaeran Can you do stay with me forever ..  You mean everything. You are everything to me. I want to talk to me face to build. You mean everything. Me to breathe in your chest Weeks. Baby  Sometimes you draw tteonagangeol coming ahjjilhae Can I trust. Hangeol not want to believe .. 영원 Rrr to me I want to talk to me face to build. You mean everything. Breathe me in the heart Weeks. Whoa baby, for example, everything to me. Me Crank. The owner of the heart, breathing me yeeye That girl .. um .. yeyeye</BODY>
+<LEMMA>영원=1
+</LEMMA>

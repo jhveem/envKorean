@@ -1,0 +1,24 @@
+<TOTAL>6</TOTAL>
+<KRCOUNT>1</KRCOUNT>
+<ENCOUNT>147</ENCOUNT>
+<KNOWN1>0</KNOWN1>
+<PERCENTKNOWN1>0.0</PERCENTKNOWN1>
+<KNOWN2>0</KNOWN2>
+<PERCENTKNOWN2>0.0</PERCENTKNOWN2>
+<KNOWN3>0</KNOWN3>
+<PERCENTKNOWN3>0.0</PERCENTKNOWN3>
+<KNOWN4>0</KNOWN4>
+<PERCENTKNOWN4>0.0</PERCENTKNOWN4>
+<KNOWN5>0</KNOWN5>
+<PERCENTKNOWN5>0.0</PERCENTKNOWN5>
+<KNOWN6>0</KNOWN6>
+<PERCENTKNOWN6>0.0</PERCENTKNOWN6>
+<KNOWN7>0</KNOWN7>
+<PERCENTKNOWN7>0.0</PERCENTKNOWN7>
+<KNOWN8>0</KNOWN8>
+<PERCENTKNOWN8>0.0</PERCENTKNOWN8>
+<BODY>Another Day In Paradise Phil Collins  by [자우림]  Another Day In Paradise  자우림 등록자 : EARL  He walks on, doesn t look back, he pretends he can t hear her starts to whistle as he crosses the street seems embarrased to be there. Oh think twice It s another day for you and me in paradise Oh think twice It s just another day for you, you and me in paradise She calls out to the man on the street he can see she s been crying she s got blisters on the soles of her feet she can t walk, but she s trying Oh Lord, is there nothing more anybody can do Oh Lord, there must be something you can say You can tell from the lines on her face you can see that she s been there probably been moved on from every place cos she didn t fit in there  Tweet </BODY>
+<LEMMA>자=3
+우림=2
+등록=1
+</LEMMA>

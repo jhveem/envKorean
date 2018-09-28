@@ -1,0 +1,25 @@
+<TOTAL>4</TOTAL>
+<KRCOUNT>1</KRCOUNT>
+<ENCOUNT>295</ENCOUNT>
+<KNOWN1>2</KNOWN1>
+<PERCENTKNOWN1>0.5</PERCENTKNOWN1>
+<KNOWN2>2</KNOWN2>
+<PERCENTKNOWN2>0.5</PERCENTKNOWN2>
+<KNOWN3>2</KNOWN3>
+<PERCENTKNOWN3>0.5</PERCENTKNOWN3>
+<KNOWN4>2</KNOWN4>
+<PERCENTKNOWN4>0.5</PERCENTKNOWN4>
+<KNOWN5>2</KNOWN5>
+<PERCENTKNOWN5>0.5</PERCENTKNOWN5>
+<KNOWN6>2</KNOWN6>
+<PERCENTKNOWN6>0.5</PERCENTKNOWN6>
+<KNOWN7>2</KNOWN7>
+<PERCENTKNOWN7>0.5</PERCENTKNOWN7>
+<KNOWN8>2</KNOWN8>
+<PERCENTKNOWN8>0.5</PERCENTKNOWN8>
+<BODY> Listen, to the song here in my heart A melody I started but cant complete Listen, to the sound from deep within It&acute;s only beginning to find release  Oh the time has come for my dreams to be heard They will not be pushed aside and turned Into your own all &acute;cause you wont listen  Listen, I am alone at a crossroadsI&acute;m not at home in my own home And I&acute;ve tried and tried to say whats on my mind You should have known Now I don&acute;t believe in you You dont know what I&acute;m feeling I&acute;mn more than what you made of me I found the voice you gave to me But now I&acute;ve gotta find my own You should have listened There is someone here inside Someone I thought had died so long ago Oh Im screaming out for my dream to be heard They will not be pushed aside or turned Into your own all &acute;cause you won&acute;t listen Listen, I am alone at a crossroads I&acute;m not at home in my own home And I&acute;ve tried and tried to say whats on my mind You should have know Oh now I don&acute;t believe in you You don&acute;t know what I&acute;m feeling I&acute;m more than what you made of me I found the voice you gave to me But now i&acute;ve gotta find my own I don&acute;t know where I belong But I&acute;ll be moving on If you don&acute;t, If you won&acute;t Listen, to the song here in my heart A melody I started But I will complete Now I don&acute;t believe in you You dont know what I&acute;m feeling I&acute;m more than what you made of me I found the voice you think you gave to meBut now I&acute;ve gotta find my own my own listen _ 가사비욘세 </BODY>
+<LEMMA>가=1
+사비=1
+욘=1
+세=1
+</LEMMA>

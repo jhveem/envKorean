@@ -1,0 +1,24 @@
+<TOTAL>3</TOTAL>
+<KRCOUNT>2</KRCOUNT>
+<ENCOUNT>201</ENCOUNT>
+<KNOWN1>0</KNOWN1>
+<PERCENTKNOWN1>0.0</PERCENTKNOWN1>
+<KNOWN2>0</KNOWN2>
+<PERCENTKNOWN2>0.0</PERCENTKNOWN2>
+<KNOWN3>0</KNOWN3>
+<PERCENTKNOWN3>0.0</PERCENTKNOWN3>
+<KNOWN4>0</KNOWN4>
+<PERCENTKNOWN4>0.0</PERCENTKNOWN4>
+<KNOWN5>0</KNOWN5>
+<PERCENTKNOWN5>0.0</PERCENTKNOWN5>
+<KNOWN6>0</KNOWN6>
+<PERCENTKNOWN6>0.0</PERCENTKNOWN6>
+<KNOWN7>0</KNOWN7>
+<PERCENTKNOWN7>0.0</PERCENTKNOWN7>
+<KNOWN8>0</KNOWN8>
+<PERCENTKNOWN8>0.0</PERCENTKNOWN8>
+<BODY>One momentOne moment agoI leftI left the roadAnd got lostWith no map to findBut just stopAnd gotta beRight back homeTo where you areTo the place I needTo the place I startedWhere I come homeThe place I belong with youOoh yeahAnd when I m lostIt s you I turn toAnd when my name is calledIt s you I turn toOnly youOnly youOnly youOnly youAnd when I m lostIt s you I turn toOnly youI walkedI walked the roadFor so longFor so long aloneI foundOne ray of lightI needAnd it gotta beRight back homeTo where you areTo the place I needTo the place I startedWhere I come homeThe place I belong with youOoh yeahAnd when I m lostIt s you I turn toAnd when my name is calledIt s you I turn toOnly youOnly youOnly youOnly youAnd when I m lostIt s you I turn toOnly youYeahOnly youYeahWhen you are nearThe way is clearYou show me who I amHey yeahAnd when I m lostIt s you I turn toAnd when my name is calledIt s you I turn toOnly youOnly youOnly youOnly youAnd when I m lostIt s you I turn toOnly youYeahOne momentOne moment agoI leftI left the road Only YouTaio Cruz 타이오 크루즈 </BODY>
+<LEMMA>타이=1
+오=1
+크루즈=1
+</LEMMA>

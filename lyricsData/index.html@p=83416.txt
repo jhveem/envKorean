@@ -1,0 +1,22 @@
+<TOTAL>1</TOTAL>
+<KRCOUNT>1</KRCOUNT>
+<ENCOUNT>171</ENCOUNT>
+<KNOWN1>0</KNOWN1>
+<PERCENTKNOWN1>0.0</PERCENTKNOWN1>
+<KNOWN2>0</KNOWN2>
+<PERCENTKNOWN2>0.0</PERCENTKNOWN2>
+<KNOWN3>0</KNOWN3>
+<PERCENTKNOWN3>0.0</PERCENTKNOWN3>
+<KNOWN4>0</KNOWN4>
+<PERCENTKNOWN4>0.0</PERCENTKNOWN4>
+<KNOWN5>0</KNOWN5>
+<PERCENTKNOWN5>0.0</PERCENTKNOWN5>
+<KNOWN6>0</KNOWN6>
+<PERCENTKNOWN6>0.0</PERCENTKNOWN6>
+<KNOWN7>0</KNOWN7>
+<PERCENTKNOWN7>0.0</PERCENTKNOWN7>
+<KNOWN8>0</KNOWN8>
+<PERCENTKNOWN8>0.0</PERCENTKNOWN8>
+<BODY> It came It came like a thief in the night I happened to be looking Out through the window I swear it was brighter than hell Man, I saw a light through the window It was hovering above The house next door  I froze I froze like a stone All alone I swear my hair stood up And I said a prayer to end all prayers I reached for the phone But the phone was dead  Next the glowing ball turned red And a voice inside my head Said, Boss Fred , go on back to bed From now on You are gonna be able to see From now on you are gonna be All at once with peace and harmony In rhyme and reason altogether alone   It came It came like a song In the day, the way I play When I get off on a feeling Of wheeling and soaring through space Like the word what flows Like the lover as it explodes Kicking off the start of time  repeat 반복  Rhyme and reason altogether alone </BODY>
+<LEMMA>반복=1
+</LEMMA>

@@ -1,0 +1,25 @@
+<TOTAL>6</TOTAL>
+<KRCOUNT>1</KRCOUNT>
+<ENCOUNT>486</ENCOUNT>
+<KNOWN1>4</KNOWN1>
+<PERCENTKNOWN1>0.6666666666666666</PERCENTKNOWN1>
+<KNOWN2>5</KNOWN2>
+<PERCENTKNOWN2>0.8333333333333334</PERCENTKNOWN2>
+<KNOWN3>5</KNOWN3>
+<PERCENTKNOWN3>0.8333333333333334</PERCENTKNOWN3>
+<KNOWN4>5</KNOWN4>
+<PERCENTKNOWN4>0.8333333333333334</PERCENTKNOWN4>
+<KNOWN5>5</KNOWN5>
+<PERCENTKNOWN5>0.8333333333333334</PERCENTKNOWN5>
+<KNOWN6>5</KNOWN6>
+<PERCENTKNOWN6>0.8333333333333334</PERCENTKNOWN6>
+<KNOWN7>5</KNOWN7>
+<PERCENTKNOWN7>0.8333333333333334</PERCENTKNOWN7>
+<KNOWN8>5</KNOWN8>
+<PERCENTKNOWN8>0.8333333333333334</PERCENTKNOWN8>
+<BODY>[Hook] i know that it s gone be tough. but i packed all my stuff. Heeojim be called, appears always easy.   [Verse 1: E Sens]  Sensitive relationships, and glass like border. Have already changed the moment to worry. Have changed, it s anyone fault that? Need to talk like me with someone else. One is my fault. Hurt ku, Painter natgu, she left. Easier for the district, 쫌 ve been lonely. Been tough. Maybe today s the night intact. Alone can not say I m glad gananham I think I m queer pretend tender Hypersensitive reaction seeming rude. Smoking two packs beogeoun. I feel a man is not the same day soiling After you listen to the old. Young yeoryeotdeon is pure. i m leavin.    [Hook] i know that it s gone be tough. but i packed all my stuff. Heeojim be called, appears always easy.   [Hook 2] sorry i m leavin now. Do not wait to come back at you. Now sorry i m leavin now i m leavin now. i m leavin sorry i m leavin. sorry i m leavin    [Verse 2: Verbal Jint]  This is not the last day i said, but the time came. Got to say goodbye. Finally got to lie. Was like seamless. When dealing with me. My last appearance of the eyes, you It s not easy to gauge whether. Probably Last year was, say sorry, That s the most unpleasant I told him not to be sorry one. So I says is not true Your answer questions, instead of covering your eyes kissin and huggin. and ll be right back.  Then when I come back nicely I do not know do not see. Clean smudged eye makeup. Do not cry for me. i m okay.   [Hook] i know that it s gone be tough. but i packed all my stuff. Heeojim be called, appears always easy.   [Hook 2] sorry i m leavin now Do not wait to come back at you. Now sorry i m leavin now i m leavin now. i m leavin. sorry i m leavin. sorry i m leavin.    [Verse 3: MC Meta] Off the entrance in front of the mirror straight on, he Left with a smile and say goodbye. A long sigh and sit back, jump off the house Soaked to the booths chest pain Sweep heart descends, You re done.  Bother the eyes as tears maethideon I ll leave samkimyeonseo away What is there to say this distance also By evening, no other place I wore different clothes clothes In fact, he does not, especially not changed. Because it was unable to stand, leaving his geotppun. I feel sleepy two. Chest filled with secrets. Do not leave, so it is an neomanilkka, Is talking about. I m the only one who would leave all tteodanilkka. That s to make it easier, would change. Is change in the world would he have that music. Is it true that you would change or leave.     sorry i m leavin. sorry i m leavin.</BODY>
+<LEMMA>1=1
+쫌=1
+2=3
+3=1
+</LEMMA>

@@ -1,0 +1,46 @@
+<TOTAL>25</TOTAL>
+<KRCOUNT>6</KRCOUNT>
+<ENCOUNT>34</ENCOUNT>
+<ARTIST>Highlight (하이라이트) Lyrics Index</ARTIST>
+<TITLE><img title="BEAST" src="https://i0.wp.com/colorcodedlyrics.com/wp-content/uploads/2013/08/BEAST-Page-Banner.jpg?resize=640%2C267" alt="" width="640" height="267" data-recalc-dims="1" /></TITLE>
+<KNOWN1>1</KNOWN1>
+<PERCENTKNOWN1>0.04</PERCENTKNOWN1>
+<KNOWN2>2</KNOWN2>
+<PERCENTKNOWN2>0.08</PERCENTKNOWN2>
+<KNOWN3>3</KNOWN3>
+<PERCENTKNOWN3>0.12</PERCENTKNOWN3>
+<KNOWN4>5</KNOWN4>
+<PERCENTKNOWN4>0.2</PERCENTKNOWN4>
+<KNOWN5>5</KNOWN5>
+<PERCENTKNOWN5>0.2</PERCENTKNOWN5>
+<KNOWN6>5</KNOWN6>
+<PERCENTKNOWN6>0.2</PERCENTKNOWN6>
+<KNOWN7>5</KNOWN7>
+<PERCENTKNOWN7>0.2</PERCENTKNOWN7>
+<KNOWN8>5</KNOWN8>
+<PERCENTKNOWN8>0.2</PERCENTKNOWN8>
+<BODY> [#3] Highlight Release Date: 2016.07.04 Tracklist: 01. Intro 02. Highlight 03. Ribbon 04. 연습 중 Practicing  05. When I&#8230; 06. 궁금해 Curious  07. Found You Junhyung Solo  08. Baby It&#8217;s You Doojoon/Gikwang Duet  09. 나와 Come Out  Yoseob Solo  10. I&#8217;ll Give You My All Dongwoon Solo  11. 잘 자요 Sleep Well  12. Ribbon Inst. </BODY>
+<LEMMA>3=1
+2016.07=1
+04=2
+01=1
+02=1
+03=1
+연습=1
+중=1
+05=1
+8230=1
+06=1
+궁금하=1
+07=1
+08=1
+8217=2
+09=1
+나오=1
+10=1
+11=1
+잘=1
+자=1
+아요=1
+12=1
+</LEMMA>

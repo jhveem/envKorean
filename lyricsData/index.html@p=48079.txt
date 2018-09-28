@@ -1,0 +1,27 @@
+<TOTAL>6</TOTAL>
+<KRCOUNT>2</KRCOUNT>
+<ENCOUNT>275</ENCOUNT>
+<KNOWN1>1</KNOWN1>
+<PERCENTKNOWN1>0.16666666666666666</PERCENTKNOWN1>
+<KNOWN2>1</KNOWN2>
+<PERCENTKNOWN2>0.16666666666666666</PERCENTKNOWN2>
+<KNOWN3>1</KNOWN3>
+<PERCENTKNOWN3>0.16666666666666666</PERCENTKNOWN3>
+<KNOWN4>1</KNOWN4>
+<PERCENTKNOWN4>0.16666666666666666</PERCENTKNOWN4>
+<KNOWN5>1</KNOWN5>
+<PERCENTKNOWN5>0.16666666666666666</PERCENTKNOWN5>
+<KNOWN6>1</KNOWN6>
+<PERCENTKNOWN6>0.16666666666666666</PERCENTKNOWN6>
+<KNOWN7>2</KNOWN7>
+<PERCENTKNOWN7>0.3333333333333333</PERCENTKNOWN7>
+<KNOWN8>2</KNOWN8>
+<PERCENTKNOWN8>0.3333333333333333</PERCENTKNOWN8>
+<BODY>You`re only just a dreamboat sailing in my head You swim my secret oceans of coral blue and redYour smell is incense burning Your touch is silken yet It reaches through my skinAnd moving from within It clutches at my breast But it`s only when I sleep See you in my dreams in my dreams You got me spinning round and round Turning up side down But I only hear you breathe Somewhere in my sleep in my sleep Got me spinning round and round Turning... but it&acute;s only when I sleep And when I wake from slumber Your shadows disappearYour breath is just a sea mist Surrounding my bodyI`m workin` through the day time But when it`s time to rest I`m lying in my bedListening to my breath Falling from the edge But it`s only when I sleep See you in my dreams in my dreams You got me spinning round and round Turning upside downI hear you breathe Somewhere in my sleep in my sleep You got me spinning round and round Turning... but it`s only when I sleep yeah Only when I sleep It`s reaching through my skin Moving from within And clutches at my breasts But it`s only when I sleep See you in my dreams in my dreams You got me spinning round and round Turning up, But It&acute;s only hear you breathe In bed I lie Somewhere in my sleep No need to dry Got me spinning round and round My sleeping cry upside down High Up to the sky Where angels fly angels fly I`ll never die Only when I sleep  Only When I Sleep Two Of Us With 김태훈 이은주</BODY>
+<LEMMA>김=1
+태=1
+훈=1
+잇=1
+은=1
+주=1
+</LEMMA>

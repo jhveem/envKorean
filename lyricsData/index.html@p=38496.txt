@@ -1,0 +1,23 @@
+<TOTAL>5</TOTAL>
+<KRCOUNT>2</KRCOUNT>
+<ENCOUNT>158</ENCOUNT>
+<KNOWN1>0</KNOWN1>
+<PERCENTKNOWN1>0.0</PERCENTKNOWN1>
+<KNOWN2>0</KNOWN2>
+<PERCENTKNOWN2>0.0</PERCENTKNOWN2>
+<KNOWN3>0</KNOWN3>
+<PERCENTKNOWN3>0.0</PERCENTKNOWN3>
+<KNOWN4>0</KNOWN4>
+<PERCENTKNOWN4>0.0</PERCENTKNOWN4>
+<KNOWN5>0</KNOWN5>
+<PERCENTKNOWN5>0.0</PERCENTKNOWN5>
+<KNOWN6>0</KNOWN6>
+<PERCENTKNOWN6>0.0</PERCENTKNOWN6>
+<KNOWN7>0</KNOWN7>
+<PERCENTKNOWN7>0.0</PERCENTKNOWN7>
+<KNOWN8>0</KNOWN8>
+<PERCENTKNOWN8>0.0</PERCENTKNOWN8>
+<BODY> After some time  I ve finally made up my mind  She is the girl  and I really want to make her mine  I m searching everywhere  to find her again  To tell her I love her  And I m sorry bout the things  I ve done  I find her standing  in front of the church  The only place in town  where I didn t search  She looks so happy  in her wedding dress  But she s crying  while she s saying this  후렴  Boy I missed your kisses  all the time  but this is twenty five minutes  too late  Though you travelled so far  boy I m sorry  you are twenty five minutes too late  Against the wind  I m going home again  Wishing be back to the time  when we were more than friends  Still I see her  in front of the church  The only place in town  where I didn t search  She looks so happy  in her wedding dress  But she s cried  while she s saying this  후렴 반복  Out in the streets  Places where hungry hearts  have nothing to eat  Inside my head  Still I can hear the words she said  후렴 반복  I can still hear what she said </BODY>
+<LEMMA>후렴=3
+반복=2
+</LEMMA>

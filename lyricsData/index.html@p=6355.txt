@@ -1,0 +1,22 @@
+<TOTAL>1</TOTAL>
+<KRCOUNT>1</KRCOUNT>
+<ENCOUNT>333</ENCOUNT>
+<KNOWN1>0</KNOWN1>
+<PERCENTKNOWN1>0.0</PERCENTKNOWN1>
+<KNOWN2>0</KNOWN2>
+<PERCENTKNOWN2>0.0</PERCENTKNOWN2>
+<KNOWN3>0</KNOWN3>
+<PERCENTKNOWN3>0.0</PERCENTKNOWN3>
+<KNOWN4>0</KNOWN4>
+<PERCENTKNOWN4>0.0</PERCENTKNOWN4>
+<KNOWN5>0</KNOWN5>
+<PERCENTKNOWN5>0.0</PERCENTKNOWN5>
+<KNOWN6>0</KNOWN6>
+<PERCENTKNOWN6>0.0</PERCENTKNOWN6>
+<KNOWN7>0</KNOWN7>
+<PERCENTKNOWN7>0.0</PERCENTKNOWN7>
+<KNOWN8>0</KNOWN8>
+<PERCENTKNOWN8>0.0</PERCENTKNOWN8>
+<BODY> Life & Love are the same feat. 정인   A pretty smile on a girl walking by my van Holding tight on her cotton candy with some chocolate flake It seems it means the world to her But she will be surprised that it ain’t all There is so much more than you could ever taste in mouth  Like the days when I can lay all morning on my bed Or I can even get up, ask my little baby for a dance smell of spring, cool summer breeze Full of surprise under Christmas tree “Baby be mine” written on a card my babe sent on valentines  Love of my life love of my soul that makes me alive So much love that makes you feel like float in happiness Love of my mama love of my sis, my friends who always like my smile That’s life, baby More than you can ever Believe  A lucky guy who’s about to be a super dad A pretty lady who’s gonna be a charming bride in May At times it could be troublesome To live the life as one, but love is strong Love is so much stronger than you could ever feel inside  I know a girl who never goes away from my head She can make me sing her love songs all day all night yeah Her shiny eyes like emeralds Cures my burned out soul and my heart Something inside strengthens my mind &nbsp; I’m with you it’s paradise  Love of my life love of my soul that makes me alive So much love that makes you feel like float in happiness Love of my mama love of my sis, my friends who always like my smile  That’s life, baby More than you can ever Believe  Sometimes you’ll be wondering why the sky’s so grey and so blue but you see, a strip of sunshine will soon clear out the day  Sometimes when I feel alone I just want you with me and it will be just fine  That’s life, baby More than you can ever Believe  </BODY>
+<LEMMA>정인=1
+</LEMMA>

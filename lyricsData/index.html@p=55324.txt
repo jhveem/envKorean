@@ -1,0 +1,22 @@
+<TOTAL>1</TOTAL>
+<KRCOUNT>1</KRCOUNT>
+<ENCOUNT>407</ENCOUNT>
+<KNOWN1>0</KNOWN1>
+<PERCENTKNOWN1>0.0</PERCENTKNOWN1>
+<KNOWN2>0</KNOWN2>
+<PERCENTKNOWN2>0.0</PERCENTKNOWN2>
+<KNOWN3>0</KNOWN3>
+<PERCENTKNOWN3>0.0</PERCENTKNOWN3>
+<KNOWN4>0</KNOWN4>
+<PERCENTKNOWN4>0.0</PERCENTKNOWN4>
+<KNOWN5>0</KNOWN5>
+<PERCENTKNOWN5>0.0</PERCENTKNOWN5>
+<KNOWN6>0</KNOWN6>
+<PERCENTKNOWN6>0.0</PERCENTKNOWN6>
+<KNOWN7>0</KNOWN7>
+<PERCENTKNOWN7>0.0</PERCENTKNOWN7>
+<KNOWN8>0</KNOWN8>
+<PERCENTKNOWN8>0.0</PERCENTKNOWN8>
+<BODY>Ahhh higher and higher heights Ahhh far far away Ahhh Hurry, hurry fast Ahhh Jump a Jump a Jump a Today going today  You and going tomorrow, too  Love going going going going going  One more time  For one shot going today  Shout going through tomorrow  Life going going going going going  You re there, my style I do not need dadada You want to love you baby Naenaenae to me Even today, you re my style I do not need dadada baby you want to 영원 You want all five hundred fifty five I love you and always happy Meet many people So, we re really go Can I live without regret Geukkajikkeo have pushed each other. been there once and loved going to Beautifully soft and care about each other If you love going to the end of the pass going going going  There s no time to wait, as tteonalrae  going going going  Fill in the chest I m already brimming  Today going today  You and going tomorrow, too  Love going going going going going  One more time  For one shot going today  Shout going through tomorrow  Life going going going going going  You re there, my style I do not need dadada You want to love you baby Naenaenae to me Even today, you re my style I do not need dadada I love you baby like you. It just makes me crazy mimimi Want to take a leap day, so young Over time, regret Will the love of your life going to the enjoyment of Would you with the all  Shut up in the overlapping memories of reality Do not have that sense of life, the determined Even then, I ll just going then. You ll just love it when you going going going going  There s no time to wait as tteonalrae going going going  Fill to overflowing, I got the chest  my lover please don `t say is over I don `t stop your mad about You have my heart beat going dugeundae Over half the globe never say goodbye baby you and me. Going once more coming up again Hey Hey star bye Oh, my money going Wech burning ... Ahhh higher and higher heights Ahhh far far away Ahhh Hurry, hurry fast Ahhh Jump a Jump a Jump a going going going  There s no time to wait as tteonalrae going going going  Fill in the chest, I m already brimming  Today going today  You and going tomorrow, too  Love going going going going going  One more time  For one shot going today  Shout going through tomorrow  Life going going going going going </BODY>
+<LEMMA>영원=1
+</LEMMA>

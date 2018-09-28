@@ -1,0 +1,23 @@
+<TOTAL>2</TOTAL>
+<KRCOUNT>1</KRCOUNT>
+<ENCOUNT>353</ENCOUNT>
+<KNOWN1>0</KNOWN1>
+<PERCENTKNOWN1>0.0</PERCENTKNOWN1>
+<KNOWN2>0</KNOWN2>
+<PERCENTKNOWN2>0.0</PERCENTKNOWN2>
+<KNOWN3>0</KNOWN3>
+<PERCENTKNOWN3>0.0</PERCENTKNOWN3>
+<KNOWN4>0</KNOWN4>
+<PERCENTKNOWN4>0.0</PERCENTKNOWN4>
+<KNOWN5>0</KNOWN5>
+<PERCENTKNOWN5>0.0</PERCENTKNOWN5>
+<KNOWN6>0</KNOWN6>
+<PERCENTKNOWN6>0.0</PERCENTKNOWN6>
+<KNOWN7>0</KNOWN7>
+<PERCENTKNOWN7>0.0</PERCENTKNOWN7>
+<KNOWN8>0</KNOWN8>
+<PERCENTKNOWN8>0.0</PERCENTKNOWN8>
+<BODY> Hey girl, Im waitin on ya, Im waitin on ya Come on and let me sneak you out And have a celebration, a celebration The music up, the windows down  Yeah, well be doing what we do Just pretending that were cool And we know it too Yeah, well keep doing what we do Just pretending that were cool So tonight  Lets go crazy, crazy, crazy til we see the sun I know we only met but lets pretend its love And never, never, never stop for anyone Tonight lets get some And live while were young Woah oh oh oh Woah oh oh oh And live while were young Woah oh oh oh Tonight lets get some And live while were young  Hey girl, its now or never, its now or never Dont over think, just let it go And if we get together, yeah, get together Dont let the pictures leave your phone, oh  Yeah, well be doing what we do Just pretending that were cool So tonight  Lets go crazy, crazy, crazy til we see the sun I know we only met but lets pretend its love And never, never, never stop for anyone Tonight lets get some And live while were young Woah oh oh oh Woah oh oh oh Wanna live while were young Woah oh oh oh Tonight lets get some And live while were young  And girl, you and I, Were bout to make some memories tonight I wanna live while were young We wanna live while were young  Lets go crazy, crazy, crazy til we see the sun I know we only met but lets pretend its love And never, never, never stop for anyone Tonight lets get some And live while were young Crazy, crazy, crazy til we see the sun I know we only met but lets pretend its love And never, never, never stop for anyone Tonight lets get some And live while were young Wanna live, wanna live, wanna live Come on, young Wanna live, wanna live, wanna live Wanna live while were young Wanna live, wanna live, wanna live Tonight lets get some And live while were young 가사입력NAKMUSE  </BODY>
+<LEMMA>가사=1
+입력=1
+</LEMMA>

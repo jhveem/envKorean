@@ -1,0 +1,25 @@
+<TOTAL>4</TOTAL>
+<KRCOUNT>1</KRCOUNT>
+<ENCOUNT>414</ENCOUNT>
+<KNOWN1>0</KNOWN1>
+<PERCENTKNOWN1>0.0</PERCENTKNOWN1>
+<KNOWN2>0</KNOWN2>
+<PERCENTKNOWN2>0.0</PERCENTKNOWN2>
+<KNOWN3>0</KNOWN3>
+<PERCENTKNOWN3>0.0</PERCENTKNOWN3>
+<KNOWN4>1</KNOWN4>
+<PERCENTKNOWN4>0.25</PERCENTKNOWN4>
+<KNOWN5>1</KNOWN5>
+<PERCENTKNOWN5>0.25</PERCENTKNOWN5>
+<KNOWN6>1</KNOWN6>
+<PERCENTKNOWN6>0.25</PERCENTKNOWN6>
+<KNOWN7>1</KNOWN7>
+<PERCENTKNOWN7>0.25</PERCENTKNOWN7>
+<KNOWN8>1</KNOWN8>
+<PERCENTKNOWN8>0.25</PERCENTKNOWN8>
+<BODY>Stacks on deck, patron on ice We can pop bottles all night Baby, you can have whatever you like Yeah, you can have whatever you like, yeah  Late night sex, so wet, so tight Gas up the jet for you tonight Baby, you can go wherever you like Yeah, you can go wherever you like  Anytime you want to pick up the telephone You know it aint nothin to drop a couple stacks on you Want it, you could get it, my dear Five million dollar home, drive Bentleys I swear  I want your body, need your body Long as you got me, you wont need nobody You want it, I got it, go get it, I buy it Tell them other broke brothers be quiet  Stacks on deck, patron on ice We can pop bottles all night Baby, you can have whatever you like Yeah, you can have whatever you like, yeah  Late night sex, so wet, so tight Gas up the jet for you tonight Baby, you can go wherever you like Yeah, you can go wherever you like, yeah  Shawty you da hottest, love the way you drop it With brains so good, coulda swore you went to college Hundred K deposits, vacations in the tropics Cause everybody knows it aint trickin if ya got it  Ya aint never ever gotta go in yo wallet Long as I got rubber band banks in my pocket Five six, ride with rims and a body kit Ya aint gotta downgrade, you can get what I get  My chick can have whatever she want Go in every store, buy anything she want And know you aint never had a man like that Buy ya anything your heart desire like that  I want your body, need your body Long as you got me, you wont need nobody You want it, I got it, go get it, I buy it Tell them other broke brothers be quiet  Stacks on deck, patron on ice We can pop bottles all night Baby, you can have whatever you like Yeah, you can have whatever you like, yeah  Late night sex, so wet, so tight Gas up the jet for you tonight Baby, you can go wherever you like Yeah, you can go wherever you like, yeah  Im talkin big boy rides and big boy ice Let me put this big boy in yo life Whatever you like, whatever you like You can have whatever you like, whatever you like You can have whatever you like, whatever you like  to moonn6pence from papayeverte  ㈕직도 남o†nㅓ＼、、＼、。 </BODY>
+<LEMMA>6=1
+직도=1
+남=1
+ㅓ=1
+</LEMMA>

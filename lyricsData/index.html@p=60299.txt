@@ -1,0 +1,25 @@
+<TOTAL>4</TOTAL>
+<KRCOUNT>3</KRCOUNT>
+<ENCOUNT>344</ENCOUNT>
+<KNOWN1>0</KNOWN1>
+<PERCENTKNOWN1>0.0</PERCENTKNOWN1>
+<KNOWN2>0</KNOWN2>
+<PERCENTKNOWN2>0.0</PERCENTKNOWN2>
+<KNOWN3>0</KNOWN3>
+<PERCENTKNOWN3>0.0</PERCENTKNOWN3>
+<KNOWN4>0</KNOWN4>
+<PERCENTKNOWN4>0.0</PERCENTKNOWN4>
+<KNOWN5>0</KNOWN5>
+<PERCENTKNOWN5>0.0</PERCENTKNOWN5>
+<KNOWN6>0</KNOWN6>
+<PERCENTKNOWN6>0.0</PERCENTKNOWN6>
+<KNOWN7>0</KNOWN7>
+<PERCENTKNOWN7>0.0</PERCENTKNOWN7>
+<KNOWN8>0</KNOWN8>
+<PERCENTKNOWN8>0.0</PERCENTKNOWN8>
+<BODY>Cold as ice And more bitter than a December Winter night That’s how I treated you And I know that I I sometimes tend to lose my temper And I cross the line Yeah that’s the truth  I know it gets hard sometimes But I could never leave your side No matter what I say  ‘Cause if I wanted to go I would have gone by now But I really need you near me here Keep my mind off the edge If I wanted to leave I would have left by now But you’re the only one that knows me Better than I know myself  All along I tried to pretend it didn’t matter If I was alone But deep down I know If you were gone For even a day I wouldn’t know which way to turn ‘Cause I’m lost without you  I know it gets hard sometimes But I could never leave your side No matter what I say  ‘Cause if I wanted to go I would have gone by now But I really need you near me here Keep my mind off the edge If I wanted to leave I would have left by now But you’re the only one that knows me Better than I know myself  I get kind of dark Let it go too far I can be obnoxious at times But try and see my heart ‘Cause I need you now So don’t let me down You’re the only thing in this world I would die without  ‘Cause if I wanted to go I would have gone by now But I really need you near me here Keep my mind off the edge If I wanted to leave I would have left by now But you’re the only one that knows me Better than I know myself  ‘Cause if I wanted to go I would have gone by now But I really need you near me here Keep my mind off the edge If I wanted to leave I would have left by now But you’re the only one that knows me Better than I know myself 가사입력 네이버 출처NAKMUSE</BODY>
+<LEMMA>가사=1
+입력=1
+네이버=1
+출처=1
+</LEMMA>

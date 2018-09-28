@@ -1,0 +1,22 @@
+<TOTAL>4</TOTAL>
+<KRCOUNT>4</KRCOUNT>
+<ENCOUNT>141</ENCOUNT>
+<KNOWN1>0</KNOWN1>
+<PERCENTKNOWN1>0.0</PERCENTKNOWN1>
+<KNOWN2>0</KNOWN2>
+<PERCENTKNOWN2>0.0</PERCENTKNOWN2>
+<KNOWN3>0</KNOWN3>
+<PERCENTKNOWN3>0.0</PERCENTKNOWN3>
+<KNOWN4>0</KNOWN4>
+<PERCENTKNOWN4>0.0</PERCENTKNOWN4>
+<KNOWN5>0</KNOWN5>
+<PERCENTKNOWN5>0.0</PERCENTKNOWN5>
+<KNOWN6>0</KNOWN6>
+<PERCENTKNOWN6>0.0</PERCENTKNOWN6>
+<KNOWN7>0</KNOWN7>
+<PERCENTKNOWN7>0.0</PERCENTKNOWN7>
+<KNOWN8>0</KNOWN8>
+<PERCENTKNOWN8>0.0</PERCENTKNOWN8>
+<BODY> Take all of your wasted honor. Every little past frustration. Take all of your so called problems, Better put ′em in quotations. Say what you need to say 반복   Walkin′ like a one man army, Fightin′ with the shadows in your head. Livin′ up the same old moment Knowin′ you′d be better off instead If you could only... Say what you need to say 반복   Have no fear for givin′ in. Have no fear for giving over. You better know that in the end It′s better to say too much, than never to say what you need to say again. Even if your hands are shaking, And your faith is broken. Even as the eyes are closin′, Do it with a heart wide open. Say what you need to say 반복  Say what you need to, Say what you need to... Say what you need to say 반복  </BODY>
+<LEMMA>반복=4
+</LEMMA>

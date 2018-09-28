@@ -1,0 +1,24 @@
+<TOTAL>3</TOTAL>
+<KRCOUNT>1</KRCOUNT>
+<ENCOUNT>383</ENCOUNT>
+<KNOWN1>1</KNOWN1>
+<PERCENTKNOWN1>0.3333333333333333</PERCENTKNOWN1>
+<KNOWN2>1</KNOWN2>
+<PERCENTKNOWN2>0.3333333333333333</PERCENTKNOWN2>
+<KNOWN3>1</KNOWN3>
+<PERCENTKNOWN3>0.3333333333333333</PERCENTKNOWN3>
+<KNOWN4>2</KNOWN4>
+<PERCENTKNOWN4>0.6666666666666666</PERCENTKNOWN4>
+<KNOWN5>2</KNOWN5>
+<PERCENTKNOWN5>0.6666666666666666</PERCENTKNOWN5>
+<KNOWN6>2</KNOWN6>
+<PERCENTKNOWN6>0.6666666666666666</PERCENTKNOWN6>
+<KNOWN7>2</KNOWN7>
+<PERCENTKNOWN7>0.6666666666666666</PERCENTKNOWN7>
+<KNOWN8>2</KNOWN8>
+<PERCENTKNOWN8>0.6666666666666666</PERCENTKNOWN8>
+<BODY>Hypnosis seems to have stopped in time fell into ... Now stop it baby good morning wake up Kiss her countless wakeful eyes. Seen, but it s still a new energy Both hands are too warm overcast pods A gorgeous ring on your finger, but We shine better than any other lover As for the head to breathe and be happy that I m hoping to continue my life and the days Cool of the morning to pray secretly familiar hamyi Not carried us to create more drag and embraces With my feet on the dance waltz Alone after the ceremony felt like a sweet kiss each other.  Sweetest love babe You than the sweet little candy You make me feel high Playful kiss on my lips when chideut Feel good, feel good  To be a little closer and hold you To fill my heart with your warmth Happy to do just shaking my shoulder I feel in my heart, and the tranquility re Gonna be someone s half You feel me silgamhae I deeply deeply you want to pagodeulgo Of course, only to allow you to do so I ll get better with each other only as To cease to go further to stop the On the back of your hand on my shoulder I smile with my lips that I can not at the bottom of the  Sweetest love babe You than the sweet little candy You make me feel high Playful kiss on my lips when chideut Feel good, feel good  Asleep on the cozy, quarter in the product you Gamssamyeo me that sticks, etc. You Sweep your hair neomgimyeo Kiss you, I love your lips without lipstick Come close to me, baby come close to me, uh I ll give it to you all x2  take my hand, I love you all Kiss me darling, kiss me darling Your little face on the forehead, lips Hold me darling, hold me darling Mind you, as neukkilrae 설레는 Kiss me darling, kiss me darling Because you re not committed anything Hold me darling Here, take my hand Hold me darling  my love, by my side  Sweetest love babe You than the sweet little candy You make me feel high Playful kiss on my lips when chideut Feel good, feel good At the moment babe At this moment right now babe</BODY>
+<LEMMA>2=1
+설레=1
+는=1
+</LEMMA>

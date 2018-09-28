@@ -1,0 +1,26 @@
+<TOTAL>5</TOTAL>
+<KRCOUNT>4</KRCOUNT>
+<ENCOUNT>374</ENCOUNT>
+<KNOWN1>0</KNOWN1>
+<PERCENTKNOWN1>0.0</PERCENTKNOWN1>
+<KNOWN2>0</KNOWN2>
+<PERCENTKNOWN2>0.0</PERCENTKNOWN2>
+<KNOWN3>0</KNOWN3>
+<PERCENTKNOWN3>0.0</PERCENTKNOWN3>
+<KNOWN4>0</KNOWN4>
+<PERCENTKNOWN4>0.0</PERCENTKNOWN4>
+<KNOWN5>0</KNOWN5>
+<PERCENTKNOWN5>0.0</PERCENTKNOWN5>
+<KNOWN6>0</KNOWN6>
+<PERCENTKNOWN6>0.0</PERCENTKNOWN6>
+<KNOWN7>0</KNOWN7>
+<PERCENTKNOWN7>0.0</PERCENTKNOWN7>
+<KNOWN8>0</KNOWN8>
+<PERCENTKNOWN8>0.0</PERCENTKNOWN8>
+<BODY>I feel the salty waves come inI feel them crash against my skinAnd I smile as I respire because I know they ll never winThere s a haze above my TVThat changes everything I seeAnd maybe if I continue watchingI ll lose the traits that worry meCan we fast forward to go down on me?Stop there and let me correct itI wanna live a life from a new perspectiveYou come along because I love your faceAnd I ll admire your expensive tasteAnd who cares divine interventionI wanna be praised from a new perspectiveBut leaving now would be a good ideaSo catch me up on getting out of here Can we fast forward to go down on me? Taking everything for granted but we still respect the timeWe move along with some new passion Knowing everything is fineAnd I would wait and watch the hours Fall in a hundred separate linesBut I regain repose and wonder how I ended up insideCan we fast forward to go down on me?Stop there and let me correct itI wanna live a life from a new perspectiveYou come along because I love your faceAnd I ll admire your expensive tasteAnd who cares divine interventionI wanna be praised from a new perspectiveBut leaving now would be a good ideaSo catch me up on getting out of hereCatch me up on getting out of hereMore to the point, I need to showHow much I can come and goOther plans fell throughAnd put a heavy load on youI know there s no more that need be saidWhen I m inching through your bedTake a look around instead and watch me goStop there and let me correct itI wanna live a life from a new perspectiveYou come along because I love your faceAnd I ll admire your expensive tasteAnd who cares divine interventionI wanna be praised from a new perspectiveBut leaving now would be a good ideaSo catch me up on getting out of hereIt s not fair, just let me perfect itDon t wanna live a life that was comprehensiveCause seeing clear would be a bad ideaNow catch me up on getting out of hereSo catch me up I m getting out of here New Perspective Soundtrack ver. Panic At The Disco 패닉 앳 더 디스코 </BODY>
+<LEMMA>패=1
+닉=1
+앳=1
+더=1
+디스코=1
+</LEMMA>

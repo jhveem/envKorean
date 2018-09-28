@@ -1,0 +1,25 @@
+<TOTAL>4</TOTAL>
+<KRCOUNT>3</KRCOUNT>
+<ENCOUNT>332</ENCOUNT>
+<KNOWN1>0</KNOWN1>
+<PERCENTKNOWN1>0.0</PERCENTKNOWN1>
+<KNOWN2>1</KNOWN2>
+<PERCENTKNOWN2>0.25</PERCENTKNOWN2>
+<KNOWN3>1</KNOWN3>
+<PERCENTKNOWN3>0.25</PERCENTKNOWN3>
+<KNOWN4>1</KNOWN4>
+<PERCENTKNOWN4>0.25</PERCENTKNOWN4>
+<KNOWN5>1</KNOWN5>
+<PERCENTKNOWN5>0.25</PERCENTKNOWN5>
+<KNOWN6>1</KNOWN6>
+<PERCENTKNOWN6>0.25</PERCENTKNOWN6>
+<KNOWN7>1</KNOWN7>
+<PERCENTKNOWN7>0.25</PERCENTKNOWN7>
+<KNOWN8>1</KNOWN8>
+<PERCENTKNOWN8>0.25</PERCENTKNOWN8>
+<BODY>You left me paralyzedNo cure No rehab for meFunny that you got thenerve to keep askin mehow I ve beenYou re the victor in this pageantryBut the only trophy you deservecatastropheI d rather we be dead to each otherNo eulogies said for each otherNo rest in peace sThe memory s got my chest in piecesI m prayin that your eyesare the first to goThe way they looked when you smiledThe way they opened and closedThen your noseEvery single breath against my neckAnd then your lipsEvery empty promise made and saidPlease fadeFade to blackPlease fadeFade to blackBut the nightmares come backBecause your eyes noselips every look and every breathevery kiss still got me dyin You still got me cryin Because your eyes noselips every look and every breathevery kiss still got me dyin You still got me cryin Fuck a promenadeLet s juggernaut down memory laneLeave no thought aliveTo the slaughterhouseI m takin my painIt s time to sever my brainfrom my heart and soulMy knees are burnin hotbut God is coldI ve been toldOne day you ll knowtoo much of heaven s a sinAfter the showit s only hell that it bringsSo take it slowand let time heal everythingThey say that time fliesbut you keep breakin its wingsYou ll never fadeFade to blackPlease fadeFade to blackBut the nightmares come backBecause your eyes noselips every look and every breathevery kiss still got me dyin You still got me cryin Because your eyes noselips every look and every breathevery kiss still got me dyin You still got me cryin You wish me wellYou wish me wellI wish you hellI never wannalook into your eyes againNo I never wannahear you breathe againLet me goLet me goBaby tell me this is the endBecause your eyes noselips every look and every breathevery kiss still got me dyin You still got me cryin Because your eyes noselips every look and every breathevery kiss still got me dyin You still got me cryin G night EYES NOSE LIPS Feat. 태양 에픽 하이</BODY>
+<LEMMA>태양=1
+에=1
+픽=1
+하이=1
+</LEMMA>

@@ -1,0 +1,27 @@
+<TOTAL>6</TOTAL>
+<KRCOUNT>2</KRCOUNT>
+<ENCOUNT>314</ENCOUNT>
+<KNOWN1>2</KNOWN1>
+<PERCENTKNOWN1>0.3333333333333333</PERCENTKNOWN1>
+<KNOWN2>4</KNOWN2>
+<PERCENTKNOWN2>0.6666666666666666</PERCENTKNOWN2>
+<KNOWN3>4</KNOWN3>
+<PERCENTKNOWN3>0.6666666666666666</PERCENTKNOWN3>
+<KNOWN4>4</KNOWN4>
+<PERCENTKNOWN4>0.6666666666666666</PERCENTKNOWN4>
+<KNOWN5>4</KNOWN5>
+<PERCENTKNOWN5>0.6666666666666666</PERCENTKNOWN5>
+<KNOWN6>4</KNOWN6>
+<PERCENTKNOWN6>0.6666666666666666</PERCENTKNOWN6>
+<KNOWN7>4</KNOWN7>
+<PERCENTKNOWN7>0.6666666666666666</PERCENTKNOWN7>
+<KNOWN8>4</KNOWN8>
+<PERCENTKNOWN8>0.6666666666666666</PERCENTKNOWN8>
+<BODY>[All] Break it down nowBreak it down nowBreak it down nowThis how it s goin down[Minzy] Saranghandamyeonseo waeNal jakku himdeulgae haeDodaechae mweoga bulmanindaeYojeun deuleo bujjeok neuleonan ganseopChamgyeoni nal jichigae hae[CL] Hey, geureokhae ddo myeochiljjaeNan ni junhwareul pihaeI tell you what s going onNaman haengbokhagae haejugaetdadun ni geu yaksok, boyTell me what s up, what s up neon mani dallajyeosseo[Sandara] Neoneun shwipgae neomeo garyeo hajimanBeolsseo shigani da dwaetna bwaTime to say good bye, motdeuleun cheokhajimaOorin imi yejeonae over, eejaen gogaereul dolryeoNan eebyul norael bulleo, bye my love[Minzy] Deo nopeun nal kkoya jeo meolliDalkomhan yuhokae na sokjineun anaSaero oon shijak eejaen eebyulae shiganHimchgae dashi naganeun geoya[Bom] Geureoni neo yeokshi naegaeseo youngwonheeJayuroweo jigil barae jigeun eesoonganSarangeun eonjaena a eeya eeya apeumdo itneun geoyaEejae neol itneun geoya[CL] Bujjeok neuleonan datoomae jeollo heulleona oneun hamsoomOorin seoro aegae jalmot hago isseo neodo algo isseo geugeol that I m better without youBanbokdwaeneun seoro aegae jwaega dwaeneun georeon ssa oom oorin seoro igiryeo haeEerun nae jashini sileo geuraeseo deo niga miweo eejaen neoreul ji ooryeo hae[Sandara] Eebyuldo saragirago saenggakhaejweoYou d drive me crazy, eereodaga neol miweo halgeoman gataDaeshin malhaejulgae it s over, eejaen gogaereul dolryeoNan eebyul norael bulleo, bye my love[CL] Deo nopeun nal kkoya jeo meolliDalkomhan yuhokae na sokjineun anaSaero oon shijak eejaen eebyulae shiganHimchgae dashi naganeun geoya[Bom] Geureoni neo yeokshi naegaeseo youngwonheeJayuroweo jigil barae jigeun eesoonganSarangeun eonjaena a eeya eeya apeumdo itneun geoyaEejae neol itneun geoya[CL] Eodil gadeun I will think of youEonjaena neul gyeotae neul yeopae All right [Bom] Neol wihae gidohaejulgae du sohn moaHaengbokhae youngwonhee youngwonhee youngwonhee hamkkae handago[Sandara] Deo nopeun nal kkoya jeo meolliDalkomhan yuhokae na sokjineun anaSaero oon shijak eejaen eebyulae shiganHimchgae dashi naganeun geoya[Bom] Geureoni neo yeokshi naegaeseo youngwonheeJayuroweo jigil barae jigeun eesoonganSarangeun eonjaena a eeya eeya apeumdo itneun geoyaEejae neol itneun geoya[All] Break it down nowIt s almost over now[Sandara] Nan itji ana day and nightEonjaena neowa hamkkaehan chu eokNeowa hamkkaehan chu eok Love Is Ouch 사랑은 아야야 2NE1</BODY>
+<LEMMA>사랑=1
+은=1
+아=1
+야=1
+2=1
+1=1
+</LEMMA>

@@ -1,0 +1,24 @@
+<TOTAL>3</TOTAL>
+<KRCOUNT>1</KRCOUNT>
+<ENCOUNT>376</ENCOUNT>
+<KNOWN1>0</KNOWN1>
+<PERCENTKNOWN1>0.0</PERCENTKNOWN1>
+<KNOWN2>0</KNOWN2>
+<PERCENTKNOWN2>0.0</PERCENTKNOWN2>
+<KNOWN3>0</KNOWN3>
+<PERCENTKNOWN3>0.0</PERCENTKNOWN3>
+<KNOWN4>0</KNOWN4>
+<PERCENTKNOWN4>0.0</PERCENTKNOWN4>
+<KNOWN5>0</KNOWN5>
+<PERCENTKNOWN5>0.0</PERCENTKNOWN5>
+<KNOWN6>0</KNOWN6>
+<PERCENTKNOWN6>0.0</PERCENTKNOWN6>
+<KNOWN7>0</KNOWN7>
+<PERCENTKNOWN7>0.0</PERCENTKNOWN7>
+<KNOWN8>0</KNOWN8>
+<PERCENTKNOWN8>0.0</PERCENTKNOWN8>
+<BODY>Youre such a motivator, I gotta get you here So sick of saying yes sir, yes sir Youre such an instigator, you wanna play the game Take it or leave it, thats her, thats her  And I cant wait another minute I cant take the look shes giving Your body rocking, keep me up all night One in a million, my lucky strike  Got me so high and then she dropped me But she got me, she got me, she got me bad Took me inside and then she rocked me She keep up all night, this is what it sounds like  Oh oh oh My lucky strike Oh oh oh My lucky strike Oh oh oh Your body rocking, keep me up all night Oh oh oh One in a million, my lucky strike  Stuck in her elevator, she take me to the sky And I dont wanna go down, go down She said Ill feel you later, go ahead and fantasize Shell make me want her right now right now  I cant wait another minute I cant take the look shes giving Your body rocking, keep me up all night One in a million, my lucky strike  Got me so high and then she dropped me But she got me, she got me, she got me bad Took me inside and then she rocked me She keep up all night, this is what it sounds like Oh oh oh My lucky strike Oh oh oh My lucky strike Oh oh oh Your body rocking, keep me up all night Oh oh oh One in a million, my lucky strike  Hey, youre taking all my pain away Youre shaking like an earthquake Hey, youre taking all my pain away Youre shaking like an earthquake  Got me so high and then she dropped me But she got me, she got me, she got me bad Took me inside and then she rocked me She keep up all night, this is what it sounds like Oh oh oh My lucky strike Oh oh oh My lucky strike Oh oh oh Your body rocking, keep me up all night Oh oh oh One in a million, my lucky strike  My lucky strike, My lucky strike Your body rocking, keep me up all night One in a million  ㈕직도 남o†nㅓ＼、、＼、。 </BODY>
+<LEMMA>직도=1
+남=1
+ㅓ=1
+</LEMMA>

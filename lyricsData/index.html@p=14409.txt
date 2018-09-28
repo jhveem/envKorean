@@ -1,0 +1,23 @@
+<TOTAL>2</TOTAL>
+<KRCOUNT>1</KRCOUNT>
+<ENCOUNT>206</ENCOUNT>
+<KNOWN1>0</KNOWN1>
+<PERCENTKNOWN1>0.0</PERCENTKNOWN1>
+<KNOWN2>0</KNOWN2>
+<PERCENTKNOWN2>0.0</PERCENTKNOWN2>
+<KNOWN3>0</KNOWN3>
+<PERCENTKNOWN3>0.0</PERCENTKNOWN3>
+<KNOWN4>0</KNOWN4>
+<PERCENTKNOWN4>0.0</PERCENTKNOWN4>
+<KNOWN5>0</KNOWN5>
+<PERCENTKNOWN5>0.0</PERCENTKNOWN5>
+<KNOWN6>0</KNOWN6>
+<PERCENTKNOWN6>0.0</PERCENTKNOWN6>
+<KNOWN7>0</KNOWN7>
+<PERCENTKNOWN7>0.0</PERCENTKNOWN7>
+<KNOWN8>0</KNOWN8>
+<PERCENTKNOWN8>0.0</PERCENTKNOWN8>
+<BODY> You shout it out But I cant hear a word you say Im talking loud not saying much Im criticized but all your bullets ricochet You shoot me down, but I get up  Im bulletproof nothing to lose Fire away, fire away Ricochet, you take your aim Fire away, fire away You shoot me down but I wont fall I am titanium You shoot me down but I wont fall I am titanium  Cut me down But its you who has further to fall Ghost town and haunted love Raise your voice, Sticks and stones may break my bones Im talking loud not saying much  Im bulletproof nothing to lose Fire away, fire away Ricochet, you take your aim Fire away, fire away You shoot me down but I wont fall I am titanium You shoot me down but I wont fall I am titanium I am titanium I am titanium  Stone hard, machine gun Firing at the ones who run Stone hard, this bulletproof glass  You shoot me down but I wont fall I am titanium You shoot me down but I wont fall I am titanium You shoot me down but I wont fall I am titanium You shoot me down but I wont fall I am titanium  I am titanium 가사입력NAKMUSE  </BODY>
+<LEMMA>가사=1
+입력=1
+</LEMMA>

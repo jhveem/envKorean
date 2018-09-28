@@ -1,0 +1,25 @@
+<TOTAL>4</TOTAL>
+<KRCOUNT>2</KRCOUNT>
+<ENCOUNT>681</ENCOUNT>
+<KNOWN1>1</KNOWN1>
+<PERCENTKNOWN1>0.25</PERCENTKNOWN1>
+<KNOWN2>1</KNOWN2>
+<PERCENTKNOWN2>0.25</PERCENTKNOWN2>
+<KNOWN3>1</KNOWN3>
+<PERCENTKNOWN3>0.25</PERCENTKNOWN3>
+<KNOWN4>2</KNOWN4>
+<PERCENTKNOWN4>0.5</PERCENTKNOWN4>
+<KNOWN5>2</KNOWN5>
+<PERCENTKNOWN5>0.5</PERCENTKNOWN5>
+<KNOWN6>2</KNOWN6>
+<PERCENTKNOWN6>0.5</PERCENTKNOWN6>
+<KNOWN7>2</KNOWN7>
+<PERCENTKNOWN7>0.5</PERCENTKNOWN7>
+<KNOWN8>2</KNOWN8>
+<PERCENTKNOWN8>0.5</PERCENTKNOWN8>
+<BODY> Look At Me Now feat. Lil Wayne & Busta Rhymes Chris Brown 크리스 브라운  I don t see how you can hate from outside of the club You can t even get in Hahaha, let s go! Yellow model chick Yellow bottle sipping Yellow Lamborghini Yellow top missing Yeah, yeah That shit look like a toupee I get what you get in 10 years, in two days Ladies love me, I m on my Cool J If you get what I get, what would you say? She wax it all off, Mr Miyagi And them suicide doors, Hari Kari Look at me now, look at me now Oh, I m getting paper Look at me now Oh, look at me now Yeah, fresher than a motherf cker Lil bigger than gorilla Cause I m killing every n gga that try to be on my shit Better cuff your chick if you with her, I can get her And she accidentally slip and fall on my dick Oops I said on my dick I ain t really mean to say on my dick But since we talking about my dick All of you haters say hi to it I m done Ayo Breezy Let me show you how to keep the dice rolling When your doing that thing over there homie Let s go! Cause I feel like I m running And I m feeling like I gotta get away, get away, get away Better know that I don t and I won t ever stop cause you know I gotta win everyday day, day See they don t really wanna pop me Just know that you never flop me And I know that I can be a little cocky You ain t never gonna stop me Every time I come a n_gga gotta set it, then I gotta go, and then I gotta get it Then I gotta blow, and then I gotta shudder any little thing that n gga think he be doing Cause it doesn t matter, cause I m gonna dadadada Then I m gonna murder every thing and anything a badaboom a badabing I gotta do a lot of things, to make it clearer to a couple n ggas That I m always winning and I gotta get it again, and again, and again And I be doing it to death and now I move a little foul A n gga better call a ref, and everybody knows my style And n ggas know I m the the best when it come to doing this And I be banging on my chest, and I bang in the east, and I m banging in the west And I come to give you more and I will never give you less You will hear it in the street or you can read it in the press Do you really wanna know what s next? Let s go See the way we on and we all up in the race and you know We gotta go, don t try to keep up with the pace We struggling and hustling and sending it and getting it And always gotta take it to another place Gotta taste it and I gotta grab it And I gotta cut all through his traffic Just to be at the top of the throne Better know I gotta have it, have it Look at me now, look at me now Oh, I m getting paper Look at me now Oh, look at me now Yeah, fresher than a motherf cker Man these bitch ass, how y all doin ? I m Lil Tunechi, I m a nuisance, I go stupid, I go dumb like the 3 stooges I don t eat sushi, I m the shit, no I m pollution, no substitution Got a bitch that play in movies in my Jacuzzi, pussy juicy I never gave a f ck about a hater, got money on my radar Dress like a skater, got a big house, came with an elevator You n ggas ain t eatin , f ck it, tell a waiter Marley said,  </BODY>
+<LEMMA>크리스=1
+브라운=1
+10=1
+3=1
+</LEMMA>

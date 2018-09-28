@@ -1,0 +1,24 @@
+<TOTAL>3</TOTAL>
+<KRCOUNT>2</KRCOUNT>
+<ENCOUNT>233</ENCOUNT>
+<KNOWN1>0</KNOWN1>
+<PERCENTKNOWN1>0.0</PERCENTKNOWN1>
+<KNOWN2>0</KNOWN2>
+<PERCENTKNOWN2>0.0</PERCENTKNOWN2>
+<KNOWN3>0</KNOWN3>
+<PERCENTKNOWN3>0.0</PERCENTKNOWN3>
+<KNOWN4>0</KNOWN4>
+<PERCENTKNOWN4>0.0</PERCENTKNOWN4>
+<KNOWN5>0</KNOWN5>
+<PERCENTKNOWN5>0.0</PERCENTKNOWN5>
+<KNOWN6>0</KNOWN6>
+<PERCENTKNOWN6>0.0</PERCENTKNOWN6>
+<KNOWN7>1</KNOWN7>
+<PERCENTKNOWN7>0.3333333333333333</PERCENTKNOWN7>
+<KNOWN8>1</KNOWN8>
+<PERCENTKNOWN8>0.3333333333333333</PERCENTKNOWN8>
+<BODY> All I Ask Of You 오페라의 유령 OST   RAOUL  No more talk of darkness, forget these wide eyed fears. I m here, nothing can harm you, my words will warm and calm you.  Let me be your freedom, let daylight dry your tears. I m here, with you, beside you, to guard you and to guide you.  CHRISTINE  Say you love me every waking moment, turn my head with talk of summertime. Say you need me with you now and always, promise me that all you say is true, that s all I ask of you.  RAOUL  Let me be your shelter, let me be your light; you re safe, no one will find you, your fears are far behind you.  CHRISTINE  All I want is freedom, a world with no more night, and you, always beside me, to hold me and to hide me.  RAOUL  Then say you ll share with me one love, one lifetime, let me lead you from your solitude. Say you need me with you, here beside you, anywhere you go, let me go too, Christine, that s all I ask of you  CHRISTINE  Say you ll share with me one love, one lifetime. say the word and I will follow you. Share each day with me, each night, each morning. Say you love me!  RAOUL  You know I do.  RAOUL & CHRISTINE  Love me, that s all I ask of you. Anywhere you go, let me go too, Love me, that s all I ask of you.  </BODY>
+<LEMMA>오페라=1
+의=1
+유령=1
+</LEMMA>

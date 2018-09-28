@@ -1,0 +1,25 @@
+<TOTAL>4</TOTAL>
+<KRCOUNT>2</KRCOUNT>
+<ENCOUNT>292</ENCOUNT>
+<KNOWN1>0</KNOWN1>
+<PERCENTKNOWN1>0.0</PERCENTKNOWN1>
+<KNOWN2>1</KNOWN2>
+<PERCENTKNOWN2>0.25</PERCENTKNOWN2>
+<KNOWN3>1</KNOWN3>
+<PERCENTKNOWN3>0.25</PERCENTKNOWN3>
+<KNOWN4>1</KNOWN4>
+<PERCENTKNOWN4>0.25</PERCENTKNOWN4>
+<KNOWN5>1</KNOWN5>
+<PERCENTKNOWN5>0.25</PERCENTKNOWN5>
+<KNOWN6>1</KNOWN6>
+<PERCENTKNOWN6>0.25</PERCENTKNOWN6>
+<KNOWN7>1</KNOWN7>
+<PERCENTKNOWN7>0.25</PERCENTKNOWN7>
+<KNOWN8>1</KNOWN8>
+<PERCENTKNOWN8>0.25</PERCENTKNOWN8>
+<BODY>  Didn’t they say that I would make a mistake Didn’t they say you were gonna be trouble People told me you were too much to take I couldn’t see it, I didn’t want to know  I let you in, and you let me down You messed me up and you turned my life around Left me feeling I had nowhere to go I was alone how was I to know that  You would be there when I needed somebody You would be there the only one could help  I had a picture of you in my mind Never knew it could be so wrong Why’d it take me so long just to find The friend that was there all along  Who’d believe that after all we’ve been through I’d be able to put my trust in you Goes to show you can forgive and forget Looking back I have no regrets cos  You would be there when I needed somebody You would be there the only one could help me  I had a picture of you in my mind Never knew it could be so wrong Why’d it take me so long just to find The friend that was there all along  You would be there when I needed somebody You would be there the only one could help me  I had a picture of you in my mind Never knew it could be so wrong Why’d it take me so long just to find The friend that was there all along  Had a picture of you in my mind Never knew it could be so wrong Why’d it take me so long just to find The friend that was there all along  Had a picture of you in my mind, all along Never knew it could be so wrong, all along  노래 정말 좋죠?  </BODY>
+<LEMMA>노래=1
+정말=1
+좋=1
+죠=1
+</LEMMA>

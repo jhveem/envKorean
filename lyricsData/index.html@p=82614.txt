@@ -1,0 +1,25 @@
+<TOTAL>4</TOTAL>
+<KRCOUNT>2</KRCOUNT>
+<ENCOUNT>382</ENCOUNT>
+<KNOWN1>0</KNOWN1>
+<PERCENTKNOWN1>0.0</PERCENTKNOWN1>
+<KNOWN2>0</KNOWN2>
+<PERCENTKNOWN2>0.0</PERCENTKNOWN2>
+<KNOWN3>0</KNOWN3>
+<PERCENTKNOWN3>0.0</PERCENTKNOWN3>
+<KNOWN4>1</KNOWN4>
+<PERCENTKNOWN4>0.25</PERCENTKNOWN4>
+<KNOWN5>1</KNOWN5>
+<PERCENTKNOWN5>0.25</PERCENTKNOWN5>
+<KNOWN6>1</KNOWN6>
+<PERCENTKNOWN6>0.25</PERCENTKNOWN6>
+<KNOWN7>1</KNOWN7>
+<PERCENTKNOWN7>0.25</PERCENTKNOWN7>
+<KNOWN8>1</KNOWN8>
+<PERCENTKNOWN8>0.25</PERCENTKNOWN8>
+<BODY>Baby I`m preying on you tonightHunt you down eat you aliveJust like animalsAnimals Like animalsMaybe you think that you can hideI can smell your scent for milesJust like animalsAnimals Like animalsBaby I`m.. So what you trying to do to meIt`s like we can`t stop we`re enemiesBut we get along when I`m inside youYou`re like a drug that`s killing meI cut you out entirelyBut I get so high when I`m inside youYeah you can start over you can run freeYou can find other fish in the seaYou can pretend it`s meant to beBut you can`t stay away from meI can still hear you making that soundTaking me down rolling on the groundYou can pretend that it was meBut noO Baby I`m preying on you tonightHunt you down eat you aliveJust like animalsAnimals Like animalsMaybe you think that you can hideI can smell your scent for milesJust like animalsAnimals Like animalsBaby I`mSo if I run it`s not enoughYou`re still in my head forever stuckSo you can do what you wanna doI love your lies I`ll eat `em upBut don`t deny the animalThat comes alive when I`m inside youYeah you can start over you can run freeYou can find other fish in the seaYou can pretend it`s meant to beBut you can`t stay away from meI can still hear you making that soundTaking me down rolling on the groundYou can pretend that it was meBut noO Baby I`m preying on you tonightHunt you down eat you aliveJust like animals AnimalsLike animalsMaybe you think that you can hideI can smell your scent for milesJust like animals AnimalsLike animalsBaby I`mDon`t tell no lie, lie lie lieYou can`t deny, ny ny nyThe beast inside, side side sideYeah yeah yeahNo girl don`t lie, lie lie lieYou can`t deny, ny ny nyThe beast inside, side side sideYeah yeah yeahYo...Woahh...Woahh...Just like animals AnimalsLike animalsJust like animals yeahh... Animals yeahh... Like animals yeahh... Owwww Baby I`m preying on you tonightHunt you down eat you aliveJust like animals AnimalsLike animalsMaybe you think that you can hideI can smell your scent for milesJust like animals AnimalsLike animals Baby I`m..Don`t tell no lie, lie lie lieYou can`t deny, ny ny nyThe beast inside, side side sideYeah yeah yeahNo girl don`t lie, lie lie lieYou can`t deny, ny ny nyThe beast inside, side side sideYeah yeah yea  AnimalsMaroon 5 마룬 파이브 </BODY>
+<LEMMA>5=1
+마=1
+룬=1
+파이브=1
+</LEMMA>

@@ -1,0 +1,24 @@
+<TOTAL>3</TOTAL>
+<KRCOUNT>2</KRCOUNT>
+<ENCOUNT>231</ENCOUNT>
+<KNOWN1>1</KNOWN1>
+<PERCENTKNOWN1>0.3333333333333333</PERCENTKNOWN1>
+<KNOWN2>1</KNOWN2>
+<PERCENTKNOWN2>0.3333333333333333</PERCENTKNOWN2>
+<KNOWN3>1</KNOWN3>
+<PERCENTKNOWN3>0.3333333333333333</PERCENTKNOWN3>
+<KNOWN4>1</KNOWN4>
+<PERCENTKNOWN4>0.3333333333333333</PERCENTKNOWN4>
+<KNOWN5>1</KNOWN5>
+<PERCENTKNOWN5>0.3333333333333333</PERCENTKNOWN5>
+<KNOWN6>1</KNOWN6>
+<PERCENTKNOWN6>0.3333333333333333</PERCENTKNOWN6>
+<KNOWN7>1</KNOWN7>
+<PERCENTKNOWN7>0.3333333333333333</PERCENTKNOWN7>
+<KNOWN8>1</KNOWN8>
+<PERCENTKNOWN8>0.3333333333333333</PERCENTKNOWN8>
+<BODY>Once upon a time, in a faraway land, a young princelived in a shining castle. Although he had everything his heart desired,the prince was spoiled, selfish, and unkind. But then, onewinter s night, an old beggar woman came to the castle andoffered him a single rose in return for shelter from thebitter cold. Repulsed by her haggard appearance, the prince sneeredat the gift and turned the old woman away, but she warned him notto be deceived by appearances, for beauty is found within.And when he dismissed her again, the old woman s uglinessmelted away to reveal a beautiful enchantress. The princetried to apologize, but it was too late, for she had seen thatthere was no love in his heart, and as punishment, shetransformed him into a hideous beast, and placed apowerful spell on the castle, and all who lived there.Ashamed of his monstrous form, the beast concealed himselfinside his castle, with a magic mirror as his only window tothe outside world. The rose she had offered was truly anenchanted rose, which would bloom form many years.If he could learn to love another, and earn her love inreturn by the time the last petal fell, then the spell wouldbe broken. If not, he would be doomed to remain a beast forall time. As the years passed, he fell into despair, and lostall hope, for who could ever learn to love a beast? 별명 : 김상진 </BODY>
+<LEMMA>별명=1
+김=1
+상진=1
+</LEMMA>

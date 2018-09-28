@@ -1,0 +1,27 @@
+<TOTAL>6</TOTAL>
+<KRCOUNT>2</KRCOUNT>
+<ENCOUNT>328</ENCOUNT>
+<KNOWN1>0</KNOWN1>
+<PERCENTKNOWN1>0.0</PERCENTKNOWN1>
+<KNOWN2>0</KNOWN2>
+<PERCENTKNOWN2>0.0</PERCENTKNOWN2>
+<KNOWN3>0</KNOWN3>
+<PERCENTKNOWN3>0.0</PERCENTKNOWN3>
+<KNOWN4>2</KNOWN4>
+<PERCENTKNOWN4>0.3333333333333333</PERCENTKNOWN4>
+<KNOWN5>2</KNOWN5>
+<PERCENTKNOWN5>0.3333333333333333</PERCENTKNOWN5>
+<KNOWN6>2</KNOWN6>
+<PERCENTKNOWN6>0.3333333333333333</PERCENTKNOWN6>
+<KNOWN7>2</KNOWN7>
+<PERCENTKNOWN7>0.3333333333333333</PERCENTKNOWN7>
+<KNOWN8>2</KNOWN8>
+<PERCENTKNOWN8>0.3333333333333333</PERCENTKNOWN8>
+<BODY>Hey yo JasonSay somethin to herHolla at herI got one questionHow do you fit all that in them jeansYou know what to do with that big fat buttWiggle wiggle wiggleWiggle wiggle wiggleWiggle wiggle wiggleJust a little bit ofPatty cake Patty cakeWith no handsGot me in this club making wedding plansIf I take pictures while you do your danceI can make you famous on InstagramHot damn itYour booty like two planetsGo head and go ham sandwich WhoaI can t stand itCause you know what to do with that big fat buttWiggle wiggle wiggleWiggle wiggle wiggleWiggle wiggle wiggleJust a little bit ofCadillac Cadillac pop that trunkLet s take a shotAlley oops that dunkTired of working that 9 to 5Oh baby let me come and change your lifeHot damn itYour booty like two planetsGo head and go ham sandwich WhoaI can t stand itCause you know what to do with that big fat buttWiggle wiggle wiggleWiggle wiggle wigglewiggle wiggle wiggleshake it shake it girlJust a little bit oflittle bit of little bit of wiggle wiggleShake what your mama gave youMis be have youI just wanna strip you dip you flip you bubble bath youWhat they doTaste my rain drops OK booNow what you will what you want what you may doCompletely separated til my deeply penetratedThen I take I out and wipe it offEat it ate it love it hate itOverstated underrated everywhere I been kingYou wiggle wiggle for the D O double G againCome on babyTurn aroundturn around turn aroundYou re a star girlTake a bowtake a bow take a bowIt s just one thing that s killing meHow you get that in them jeansYou know what to do with that big fat buttWiggle wiggle wigglewiggle wiggle wiggleWiggle wiggle wiggleshake it shake it girlJust a little bit oflittle bit of Wiggle WiggleWiggle wiggleNow make it clapWiggle wiggle wiggleNow make it clapWiggle wiggle wiggleMake it clapNow make it clapDamn baby you got a bright future behind you Wiggle Feat. Snoop Dogg 개그콘서트 `니글니글` 삽입곡 Jason Derulo</BODY>
+<LEMMA>9=1
+5=1
+개그=1
+콘서트=1
+니글니글=1
+삽입곡=1
+</LEMMA>

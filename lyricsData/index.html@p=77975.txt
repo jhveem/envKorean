@@ -1,0 +1,25 @@
+<TOTAL>4</TOTAL>
+<KRCOUNT>1</KRCOUNT>
+<ENCOUNT>172</ENCOUNT>
+<KNOWN1>0</KNOWN1>
+<PERCENTKNOWN1>0.0</PERCENTKNOWN1>
+<KNOWN2>0</KNOWN2>
+<PERCENTKNOWN2>0.0</PERCENTKNOWN2>
+<KNOWN3>0</KNOWN3>
+<PERCENTKNOWN3>0.0</PERCENTKNOWN3>
+<KNOWN4>0</KNOWN4>
+<PERCENTKNOWN4>0.0</PERCENTKNOWN4>
+<KNOWN5>0</KNOWN5>
+<PERCENTKNOWN5>0.0</PERCENTKNOWN5>
+<KNOWN6>0</KNOWN6>
+<PERCENTKNOWN6>0.0</PERCENTKNOWN6>
+<KNOWN7>0</KNOWN7>
+<PERCENTKNOWN7>0.0</PERCENTKNOWN7>
+<KNOWN8>0</KNOWN8>
+<PERCENTKNOWN8>0.0</PERCENTKNOWN8>
+<BODY>I wish I had someone who suddenly arrive And show me how the flowers grow and come out in winter field  I wish I had someone new tender to my heart Someone who will share me precious time  Someday you will find me in the hands of wind Somehow you will lead me to the warmer nights Someday you will find me in the hands of wind Somehow you will lead me to the warmer nights  If I had pretty spring at the corner of my heart I will say goodbye to winter land you so cruel the winter wind and I will check the through the phone the number is 131 Don’t you know the truth is in fine weather  I love you best  I love you best  Someday you I love you best  will find me in the hands of wind Somehow you I love you best  will lead me to the warmer nights Someday you I love you best  will find me in the hands of wind Somehow you I love you best  will lead me to the warmer nights  ㈕직도 남o†nㅓ＼、、＼、。 </BODY>
+<LEMMA>131=1
+직도=1
+남=1
+ㅓ=1
+</LEMMA>

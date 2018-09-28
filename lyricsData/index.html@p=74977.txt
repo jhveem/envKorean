@@ -1,0 +1,24 @@
+<TOTAL>3</TOTAL>
+<KRCOUNT>1</KRCOUNT>
+<ENCOUNT>138</ENCOUNT>
+<KNOWN1>0</KNOWN1>
+<PERCENTKNOWN1>0.0</PERCENTKNOWN1>
+<KNOWN2>0</KNOWN2>
+<PERCENTKNOWN2>0.0</PERCENTKNOWN2>
+<KNOWN3>0</KNOWN3>
+<PERCENTKNOWN3>0.0</PERCENTKNOWN3>
+<KNOWN4>0</KNOWN4>
+<PERCENTKNOWN4>0.0</PERCENTKNOWN4>
+<KNOWN5>0</KNOWN5>
+<PERCENTKNOWN5>0.0</PERCENTKNOWN5>
+<KNOWN6>0</KNOWN6>
+<PERCENTKNOWN6>0.0</PERCENTKNOWN6>
+<KNOWN7>0</KNOWN7>
+<PERCENTKNOWN7>0.0</PERCENTKNOWN7>
+<KNOWN8>0</KNOWN8>
+<PERCENTKNOWN8>0.0</PERCENTKNOWN8>
+<BODY>I wanna say I m still wide awake I wanna say our dreams will be gone  Just wanna say from deep inside me I see these things eating down at my soul  Understand me, I m awake I feel like the dark is mine Understand me, I m aware I feel the fear to stand  Forever..AT LAST! My pain and this awful sight Whatever, at last I ll break out of this dream  I wanna say tomorrow wont come I wanna say that they’ll never be here Just wanna say from deep inside me I see these things eating down at my soul  Understand me, I m awake I feel like the dark is mine warm  Understand me, I m aware I feel the fear to stand  Forever..AT LAST! My pain and this awful sight Whatever at last I ll break out of this dream  ㈕직도 남o†nㅓ＼、、＼、。 </BODY>
+<LEMMA>직도=1
+남=1
+ㅓ=1
+</LEMMA>

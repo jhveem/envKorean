@@ -1,0 +1,23 @@
+<TOTAL>2</TOTAL>
+<KRCOUNT>1</KRCOUNT>
+<ENCOUNT>156</ENCOUNT>
+<KNOWN1>0</KNOWN1>
+<PERCENTKNOWN1>0.0</PERCENTKNOWN1>
+<KNOWN2>0</KNOWN2>
+<PERCENTKNOWN2>0.0</PERCENTKNOWN2>
+<KNOWN3>0</KNOWN3>
+<PERCENTKNOWN3>0.0</PERCENTKNOWN3>
+<KNOWN4>0</KNOWN4>
+<PERCENTKNOWN4>0.0</PERCENTKNOWN4>
+<KNOWN5>0</KNOWN5>
+<PERCENTKNOWN5>0.0</PERCENTKNOWN5>
+<KNOWN6>0</KNOWN6>
+<PERCENTKNOWN6>0.0</PERCENTKNOWN6>
+<KNOWN7>0</KNOWN7>
+<PERCENTKNOWN7>0.0</PERCENTKNOWN7>
+<KNOWN8>0</KNOWN8>
+<PERCENTKNOWN8>0.0</PERCENTKNOWN8>
+<BODY>I have often told you storiesAbout the wayI lived the life of a drifterWaiting for the dayWhen I d take your handAnd sing you songsThen maybe you would sayCome lay with me and love meAnd I would surely stayBut I feel I m growing olderAnd the songs that I have sungEcho in the distanceLike the soundOf a windmill goin roundI guess I ll always be...A soldier of fortuneMany times I ve been a travellerI looked for something newIn days of oldWhen nights were coldI wandered without youBut those days I thought my eyesHad seen you standing nearTho blindness is confusingIt shows that you re not hereNow I feel I m growing olderAnd the songs that I have sungEcho in the distanceLike the soundOf a windmill goin roundI guess I ll always be...A soldier of fortuneYes, I can hear the soundOf a windmill goin roundI guess I ll always beA soldier of fortune  Soldier Of Fortune Deep Purple 임재범</BODY>
+<LEMMA>임=1
+재범=1
+</LEMMA>

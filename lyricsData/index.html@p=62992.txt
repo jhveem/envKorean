@@ -1,0 +1,22 @@
+<TOTAL>4</TOTAL>
+<KRCOUNT>4</KRCOUNT>
+<ENCOUNT>162</ENCOUNT>
+<KNOWN1>0</KNOWN1>
+<PERCENTKNOWN1>0.0</PERCENTKNOWN1>
+<KNOWN2>0</KNOWN2>
+<PERCENTKNOWN2>0.0</PERCENTKNOWN2>
+<KNOWN3>0</KNOWN3>
+<PERCENTKNOWN3>0.0</PERCENTKNOWN3>
+<KNOWN4>0</KNOWN4>
+<PERCENTKNOWN4>0.0</PERCENTKNOWN4>
+<KNOWN5>0</KNOWN5>
+<PERCENTKNOWN5>0.0</PERCENTKNOWN5>
+<KNOWN6>0</KNOWN6>
+<PERCENTKNOWN6>0.0</PERCENTKNOWN6>
+<KNOWN7>0</KNOWN7>
+<PERCENTKNOWN7>0.0</PERCENTKNOWN7>
+<KNOWN8>0</KNOWN8>
+<PERCENTKNOWN8>0.0</PERCENTKNOWN8>
+<BODY>stepping out 반복   I am the king of silence I am know as a creator Tell me my sanity I ve got to get to the thing straight  My memory of tou are hanging on the tree I am down down down down down My insanity is just few steps ahead I am down down down down down  stepping out 반복   I am the king of city I m known as a destroyer Tell all me you people I ve got to make this come true My memory of me disappeared in the sky I am down down down down down  My dissiness takes me away to the cloud I am down down down down down  stepping out 반복   I am the king of silence I am know as a creator Tell me my sanity I ve got to get to the thing straight  I am the king of city I m known as a destroyer Tell all me you people I ve got to make this come true  stepping out 반복 </BODY>
+<LEMMA>반복=4
+</LEMMA>

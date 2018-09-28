@@ -1,0 +1,25 @@
+<TOTAL>4</TOTAL>
+<KRCOUNT>2</KRCOUNT>
+<ENCOUNT>181</ENCOUNT>
+<KNOWN1>0</KNOWN1>
+<PERCENTKNOWN1>0.0</PERCENTKNOWN1>
+<KNOWN2>0</KNOWN2>
+<PERCENTKNOWN2>0.0</PERCENTKNOWN2>
+<KNOWN3>0</KNOWN3>
+<PERCENTKNOWN3>0.0</PERCENTKNOWN3>
+<KNOWN4>0</KNOWN4>
+<PERCENTKNOWN4>0.0</PERCENTKNOWN4>
+<KNOWN5>0</KNOWN5>
+<PERCENTKNOWN5>0.0</PERCENTKNOWN5>
+<KNOWN6>1</KNOWN6>
+<PERCENTKNOWN6>0.25</PERCENTKNOWN6>
+<KNOWN7>1</KNOWN7>
+<PERCENTKNOWN7>0.25</PERCENTKNOWN7>
+<KNOWN8>1</KNOWN8>
+<PERCENTKNOWN8>0.25</PERCENTKNOWN8>
+<BODY>I used to think that I wasn t fine enoughAnd I used to think that I wasn t wild enoughBut I won t waste my time tryin to figure outWhy you are playin games what s this all aboutAnd I can t believe your hurting me I met your girl what a differenceWhat you seen in her you ain t seen in meBut I guess it was all Just make believeOh Love never knew what I was missinBut I knew once we start kissin I foundLove never knew what I was missinBut I knew once we start kissin I found youNow you re gone what it my I gonna do so oo empty my heart my soulCan t go on go on baby without youRainy days fade away when you come around say you re here to stayWith me boy I don t want you to leave me I need youLove never knew what I was missinBut I knew once we start kissin I foundLove never knew what I was missinBut I knew once we start kissin I foundFound you Love 키샤콜 이하이</BODY>
+<LEMMA>키샤=1
+콜=1
+이하=1
+이=1
+</LEMMA>
