@@ -1,0 +1,7 @@
+pandas
+ipywidgets
+numpy
+jupyterlab_launcher>=0.5.0
+ipython
+vdom
+traitlets>=4.3.1
